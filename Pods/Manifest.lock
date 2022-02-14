@@ -1,0 +1,20 @@
+PODS:
+  - CarLensCollectionViewLayout (1.2.0)
+  - FSCalendar (2.8.2)
+
+DEPENDENCIES:
+  - CarLensCollectionViewLayout
+  - FSCalendar
+
+SPEC REPOS:
+  trunk:
+    - CarLensCollectionViewLayout
+    - FSCalendar
+
+SPEC CHECKSUMS:
+  CarLensCollectionViewLayout: 75a28307dbd7dbacbba417d13501415ff3471a68
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+
+PODFILE CHECKSUM: 1fe8caa4d6afa3eb0eccd985208209479195d959
+
+COCOAPODS: 1.10.1

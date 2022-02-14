@@ -1,0 +1,3898 @@
+[{
+        "Description": "create custom playlists…",
+        "animalName": "hunting playlists",
+        "image": "ic_playlist",
+        "idRes": 2130837603,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "placeholder",
+            "soundFile": "placeholder",
+            "timeLength": 0.00,
+            "uniqueID": 1
+        }]
+    }, {
+        "Description": "add silent periods to your playlists…",
+        "redirect": "httpdlist://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soun&animal=silence",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=silence",
+        "animalName": "silence",
+        "image": "ic_silence",
+        "idRes": 2130837504,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Silence 1 Minute",
+            "soundFile": "sil_1min",
+            "timeLength": 60.00,
+            "uniqueID": 584
+        }, {
+            "Description": "Silence 30 Seconds",
+            "soundFile": "sil_30sec",
+            "timeLength": 30.02,
+            "uniqueID": 585
+        }, {
+            "Description": "Silence 10 Seconds",
+            "soundFile": "sil_10sec",
+            "timeLength": 10.06,
+            "uniqueID": 586
+        }, {
+            "Description": "Silence 1 Second",
+            "soundFile": "sil_1sec",
+            "timeLength": 1.07,
+            "uniqueID": 587
+        }]
+    }, {
+        "Description": "bellows, juveniles, distress…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=alligators",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=alligators",
+        "animalName": "alligators \u0026 crocs",
+        "image": "alligator",
+        "idRes": 2130837504,
+        "idRes": 2130837504,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Gator Bellow #1",
+            "soundFile": "alligator_bellow_1",
+            "timeLength": 6.83,
+            "uniqueID": 2
+        }, {
+            "Description": "Gator Bellow #2",
+            "soundFile": "alligator_bellow_2",
+            "timeLength": 22.94,
+            "uniqueID": 3
+        }, {
+            "Description": "Gator Bellow #3",
+            "soundFile": "alligator_bellow_3",
+            "timeLength": 3.82,
+            "uniqueID": 4
+        }, {
+            "Description": "Gator Bellow #4",
+            "soundFile": "alligator_bellow_4",
+            "timeLength": 2.49,
+            "uniqueID": 5
+        }, {
+            "Description": "Gator Bellow #5",
+            "soundFile": "alligator_bellow_5",
+            "timeLength": 9.05,
+            "uniqueID": 6
+        }, {
+            "Description": "Gator Bellow #6",
+            "soundFile": "alligator_bellow_6",
+            "timeLength": 5.26,
+            "uniqueID": 7
+        }, {
+            "Description": "Gator Bellow #7",
+            "soundFile": "alligator_bellow_7",
+            "timeLength": 5.78,
+            "uniqueID": 8
+        }, {
+            "Description": "Courtship cough #1",
+            "soundFile": "alligator_courtship_cough_1",
+            "timeLength": 0.21,
+            "uniqueID": 9
+        }, {
+            "Description": "Courtship cough #2",
+            "soundFile": "alligator_courtship_cough_2",
+            "timeLength": 0.69,
+            "uniqueID": 10
+        }, {
+            "Description": "Gator Hissing #1",
+            "soundFile": "alligator_hiss_1",
+            "timeLength": 2.75,
+            "uniqueID": 11
+        }, {
+            "Description": "Gator Hissing #2",
+            "soundFile": "alligator_hiss_3",
+            "timeLength": 2.12,
+            "uniqueID": 12
+        }, {
+            "Description": "Gator Hissing #3",
+            "soundFile": "alligator_hiss_4",
+            "timeLength": 4.87,
+            "uniqueID": 13
+        }, {
+            "Description": "Gator Hissing #4",
+            "soundFile": "alligator_hiss_5",
+            "timeLength": 6.9,
+            "uniqueID": 14
+        }, {
+            "Description": "Gator Hissing #5",
+            "soundFile": "alligator_hiss_6",
+            "timeLength": 2.86,
+            "uniqueID": 15
+        }, {
+            "Description": "Juvenile distress #1",
+            "soundFile": "alligator_juvenile_distress_2",
+            "timeLength": 3.59,
+            "uniqueID": 16
+        }, {
+            "Description": "Juvenile distress #2",
+            "soundFile": "alligator_juvenile_distress_3",
+            "timeLength": 4.53,
+            "uniqueID": 17
+        }, {
+            "Description": "Juvenile distress #3",
+            "soundFile": "alligator_juvenile_distress_4",
+            "timeLength": 0.16,
+            "uniqueID": 18
+        }, {
+            "Description": "Juvenile distress #4",
+            "soundFile": "alligator_juvenile_distress_5",
+            "timeLength": 2.1,
+            "uniqueID": 19
+        }, {
+            "Description": "Juvenile hatchling #1",
+            "soundFile": "alligator_juvenile_hatchling_1",
+            "timeLength": 0.18,
+            "uniqueID": 20
+        }, {
+            "Description": "Juvenile hatchling #2",
+            "soundFile": "alligator_juvenile_hatchling_2",
+            "timeLength": 0.82,
+            "uniqueID": 21
+        }, {
+            "Description": "Juvenile hatchling #3",
+            "soundFile": "alligator_juvenile_hatchling_3",
+            "timeLength": 5.15,
+            "uniqueID": 22
+        }, {
+            "Description": "Gator Snort",
+            "soundFile": "alligator_snort",
+            "timeLength": 2.7,
+            "uniqueID": 23
+        }, {
+            "Description": "Croc Bellow #1",
+            "soundFile": "croc_bellow_1",
+            "timeLength": 1.11,
+            "uniqueID": 24
+        }, {
+            "Description": "Croc Bellow #2",
+            "soundFile": "croc_bellow_3",
+            "timeLength": 9.75,
+            "uniqueID": 25
+        }, {
+            "Description": "Croc Distress #1",
+            "soundFile": "croc_distress_1",
+            "timeLength": 0.43,
+            "uniqueID": 26
+        }, {
+            "Description": "Croc Distress #2",
+            "soundFile": "croc_distress_2",
+            "timeLength": 0.48,
+            "uniqueID": 27
+        }]
+    }, {
+        "Description": "grunts, growls, cubs…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=bears",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=bears",
+        "animalName": "bears",
+        "image": "bears",
+        "idRes": 2130837506,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Black bear #1",
+            "soundFile": "black_bear_1",
+            "timeLength": 21.14,
+            "uniqueID": 28,
+            "rugerIcon": false
+        }, {
+            "Description": "Black bear #2",
+            "soundFile": "black_bear_2",
+            "timeLength": 3.04,
+            "uniqueID": 29
+        }, {
+            "Description": "Bear cub distress",
+            "soundFile": "black_bear_cub_distress",
+            "timeLength": 8.29,
+            "uniqueID": 30
+        }, {
+            "Description": "Brown bear #1",
+            "soundFile": "brown_bear_1",
+            "timeLength": 11.82,
+            "uniqueID": 31
+        }, {
+            "Description": "Brown bear #2",
+            "soundFile": "brown_bear_2",
+            "timeLength": 12.39,
+            "uniqueID": 32
+        }, {
+            "Description": "Grizzly #1",
+            "soundFile": "grizzly_1",
+            "timeLength": 3.46,
+            "uniqueID": 33,
+            "rugerIcon": false
+        }, {
+            "Description": "Grizzly #2",
+            "soundFile": "grizzly_2",
+            "timeLength": 1.16,
+            "uniqueID": 34
+        }, {
+            "Description": "Grizzly growl #1",
+            "soundFile": "grizzly_growl_1",
+            "timeLength": 30.41,
+            "uniqueID": 35
+        }, {
+            "Description": "Grizzly growl #2",
+            "soundFile": "grizzly_growl_2",
+            "timeLength": 4.29,
+            "uniqueID": 36
+        }, {
+            "Description": "Grizzly growl #3",
+            "soundFile": "grizzly_growl_3",
+            "timeLength": 14.32,
+            "uniqueID": 37
+        }, {
+            "Description": "Grizzly growl #4",
+            "soundFile": "grizzly_growl_4",
+            "timeLength": 62.91,
+            "uniqueID": 38
+        }, {
+            "Description": "Kodiak bear",
+            "soundFile": "kodiak_bear_1",
+            "timeLength": 7.24,
+            "uniqueID": 39
+        }]
+    }, {
+        "Description": "various birds…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=birds",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=birds",
+        "animalName": "birds",
+        "image": "birds",
+        "idRes": 2130837507,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Band-tailed pigeon",
+            "soundFile": "band_tailed_pigeon",
+            "timeLength": 6.78,
+            "uniqueID": 40
+        }, {
+            "Description": "Band-tailed pigeon grunt",
+            "soundFile": "band_tailed_pigeon_grunt",
+            "timeLength": 1.35,
+            "uniqueID": 41
+        }, {
+            "Description": "Band-tailed pigeon wing clap",
+            "soundFile": "band_tailed_pigeon_wing_clap",
+            "timeLength": 1.11,
+            "uniqueID": 42
+        }, {
+            "Description": "Black-billed magpie #1",
+            "soundFile": "black_billed_magpie_1",
+            "timeLength": 17.77,
+            "uniqueID": 43
+        }, {
+            "Description": "Green woodpecker",
+            "soundFile": "green_woodpecker",
+            "timeLength": 5.42,
+            "uniqueID": 44
+        }, {
+            "Description": "Hairy woodpecker",
+            "soundFile": "hairy_woodpecker",
+            "timeLength": 20.23,
+            "uniqueID": 45
+        }, {
+            "Description": "Black-billed magpie #2",
+            "soundFile": "black_billed_magpie_2",
+            "timeLength": 41.99,
+            "uniqueID": 46
+        }, {
+            "Description": "Mourning dove #1",
+            "soundFile": "mourning_dove",
+            "timeLength": 4.06,
+            "uniqueID": 47
+        }, {
+            "Description": "Mourning dove #2",
+            "soundFile": "mourning_dove_2",
+            "timeLength": 4.97,
+            "uniqueID": 48
+        }, {
+            "Description": "Mourning dove cluck",
+            "soundFile": "mourning_dove_cluck",
+            "timeLength": 3.29,
+            "uniqueID": 49
+        }, {
+            "Description": "Mourning dove distress",
+            "soundFile": "mourning_dove_distress",
+            "timeLength": 5.12,
+            "uniqueID": 50
+        }, {
+            "Description": "Mourning dove wing whistle",
+            "soundFile": "mourning_dove_wing_whistle",
+            "timeLength": 2.95,
+            "uniqueID": 51
+        }, {
+            "Description": "Pigeon wing clap",
+            "soundFile": "pigeon_wing_clap",
+            "timeLength": 1.23,
+            "uniqueID": 52
+        }, {
+            "Description": "Red headed woodpecker",
+            "soundFile": "red_headed_woodpecker",
+            "timeLength": 28.38,
+            "uniqueID": 53
+        }, {
+            "Description": "Rock pigeon #1",
+            "soundFile": "rock_pigeon_1",
+            "timeLength": 3.53,
+            "uniqueID": 54
+        }, {
+            "Description": "Rock pigeon #2",
+            "soundFile": "rock_pigeon_2",
+            "timeLength": 32.47,
+            "uniqueID": 55
+        }, {
+            "Description": "Rock pigeon chick begging",
+            "soundFile": "rock_pigeon_chick_begging",
+            "timeLength": 20.66,
+            "uniqueID": 56
+        }, {
+            "Description": "Yellow billed magpie",
+            "soundFile": "yellow_billed_magpie",
+            "timeLength": 18.19,
+            "uniqueID": 57
+        }, {
+            "Description": "Loon hoot",
+            "soundFile": "loon_hoot",
+            "timeLength": 13.92,
+            "uniqueID": 593
+        }, {
+            "Description": "Loon tremolo",
+            "soundFile": "loon_tremolo",
+            "timeLength": 14.08,
+            "uniqueID": 594
+        }, {
+            "Description": "Loon wail",
+            "soundFile": "loon_wail",
+            "timeLength": 14.55,
+            "uniqueID": 595
+        }, {
+            "Description": "Loon yodel",
+            "soundFile": "loon_yodel",
+            "timeLength": 26.62,
+            "uniqueID": 596
+        }, {
+            "Description": "Princess bird",
+            "soundFile": "princess_bird",
+            "timeLength": 4.49,
+            "uniqueID": 597
+        }, {
+            "Description": "Hawk",
+            "soundFile": "hawk_new",
+            "timeLength": 3.5,
+            "uniqueID": 700
+        }, {
+            "Description": "Jackdaw Bird",
+            "soundFile": "jackdaw_bird",
+            "timeLength": 12.93,
+            "uniqueID": 702
+        }, {
+            "Description": "Magpie",
+            "soundFile": "magpie3",
+            "timeLength": 12.07,
+            "uniqueID": 703
+        }, {
+            "Description": "Magpie death cry",
+            "soundFile": "magpie_death_cry",
+            "timeLength": 11.28,
+            "uniqueID": 704
+        }, {
+            "Description": "Magpie death cry - owl",
+            "soundFile": "magpie_death_cry_owl",
+            "timeLength": 60.19,
+            "uniqueID": 705
+        }, {
+            "Description": "Magpie death cry - hawk",
+            "soundFile": "magpie_hawk_death_cry",
+            "timeLength": 66.17,
+            "uniqueID": 706
+        }, {
+            "Description": "Marten",
+            "soundFile": "marten",
+            "timeLength": 62.88,
+            "uniqueID": 707
+        }, {
+            "Description": "Pine marten death cry",
+            "soundFile": "pine_marten_death_cry",
+            "timeLength": 8.52,
+            "uniqueID": 708
+        }, {
+            "Description": "Quail death cry",
+            "soundFile": "quail_death_cry",
+            "timeLength": 60.16,
+            "uniqueID": 709
+        }, {
+            "Description": "Quail death cry - hawk",
+            "soundFile": "quail_hawk_death_cry",
+            "timeLength": 59.35,
+            "uniqueID": 710
+        }, {
+            "Description": "Sparrow death cry",
+            "soundFile": "sparrow_death_cry",
+            "timeLength": 3.58,
+            "uniqueID": 711
+        }, {
+            "Description": "Sparrow hawk death cry",
+            "soundFile": "sparrow_hawk_death_cry",
+            "timeLength": 3.58,
+            "uniqueID": 712
+        }, {
+            "Description": "Willow grouse",
+            "soundFile": "willow_grouse",
+            "timeLength": 8.72,
+            "uniqueID": 713
+        }]
+    }, {
+        "Description": "distress, growls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=bobcats",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=bobcats",
+        "animalName": "bobcats",
+        "image": "bobcat",
+        "idRes": 2130837514,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Bobcat distress",
+            "soundFile": "bobcat_distress",
+            "timeLength": 54.32,
+            "uniqueID": 58
+        }, {
+            "Description": "Bobcat growl #1",
+            "soundFile": "bobcat_growl_1",
+            "timeLength": 16.31,
+            "uniqueID": 59
+        }, {
+            "Description": "Bobcat growl #2",
+            "soundFile": "bobcat_growl_2",
+            "timeLength": 8.45,
+            "uniqueID": 60
+        }, {
+            "Description": "Bobcat growl #3",
+            "soundFile": "bobcat_growl_3",
+            "timeLength": 3.77,
+            "uniqueID": 61
+        }, {
+            "Description": "Bobcat growl #4",
+            "soundFile": "bobcat_growl_5",
+            "timeLength": 5.68,
+            "uniqueID": 62
+        }, {
+            "Description": "Bobcat growl #5",
+            "soundFile": "bobcat_growl_6",
+            "timeLength": 11.61,
+            "uniqueID": 63
+        }, {
+            "Description": "Bobcat growl #6",
+            "soundFile": "bobcat_growl_7",
+            "timeLength": 13.72,
+            "uniqueID": 64
+        }, {
+            "Description": "Bobcat growl #7",
+            "soundFile": "bobcat_growl_8",
+            "timeLength": 2.78,
+            "uniqueID": 65
+        }, {
+            "Description": "Bobcat growl #8",
+            "soundFile": "bobcat_growl_9",
+            "timeLength": 5.13,
+            "uniqueID": 66
+        }, {
+            "Description": "Bobcat growl #9",
+            "soundFile": "bobcat_growl_10",
+            "timeLength": 2.88,
+            "uniqueID": 67
+        }, {
+            "Description": "Bobcat growl #10",
+            "soundFile": "bobcat_growl_11",
+            "timeLength": 6.88,
+            "uniqueID": 68
+        }, {
+            "Description": "Bobcat growl #11",
+            "soundFile": "bobcat_growl_12",
+            "timeLength": 1.81,
+            "uniqueID": 69
+        }, {
+            "Description": "Bobcat purring",
+            "soundFile": "bobcat_purring",
+            "timeLength": 45.15,
+            "uniqueID": 70
+        }]
+    }, {
+        "Description": "grunts, guttural sounds…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=buffalo",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=buffalo",
+        "animalName": "buffalo \u0026 bison",
+        "image": "buffalo",
+        "idRes": 2130837517,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Bison #1",
+            "soundFile": "bison_1",
+            "timeLength": 52.59,
+            "uniqueID": 71
+        }, {
+            "Description": "Bison #2",
+            "soundFile": "bison_2",
+            "timeLength": 4.11,
+            "uniqueID": 72
+        }, {
+            "Description": "Bison #3",
+            "soundFile": "bison_3",
+            "timeLength": 7.14,
+            "uniqueID": 73
+        }, {
+            "Description": "Bison #4",
+            "soundFile": "bison_4",
+            "timeLength": 0.84,
+            "uniqueID": 74
+        }, {
+            "Description": "Bison #5",
+            "soundFile": "bison_5",
+            "timeLength": 8.84,
+            "uniqueID": 75
+        }, {
+            "Description": "Buffalo #1",
+            "soundFile": "buffalo_2",
+            "timeLength": 3.3,
+            "uniqueID": 76
+        }]
+    }, {
+        "Description": "clucking, chicks…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=chickens",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=chickens",
+        "animalName": "chickens",
+        "image": "chicken",
+        "idRes": 2130837519,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Chicken clucking #1",
+            "soundFile": "chicken_clucking",
+            "timeLength": 0.79,
+            "uniqueID": 77
+        }, {
+            "Description": "Chicken clucking #2",
+            "soundFile": "chicken_clucking_2",
+            "timeLength": 3.22,
+            "uniqueID": 78
+        }, {
+            "Description": "Chicken clucking #3",
+            "soundFile": "chicken_clucking_3",
+            "timeLength": 11.71,
+            "uniqueID": 79
+        }, {
+            "Description": "Chicken clucking #4",
+            "soundFile": "chicken_clucking_4",
+            "timeLength": 1.6,
+            "uniqueID": 80
+        }, {
+            "Description": "Chicken clucking #5",
+            "soundFile": "chicken_clucking_5",
+            "timeLength": 50.84,
+            "uniqueID": 81
+        }, {
+            "Description": "Chicken coop",
+            "soundFile": "chicken_coop",
+            "timeLength": 12.29,
+            "uniqueID": 82
+        }, {
+            "Description": "Chicken distress #1",
+            "soundFile": "chicken_distress",
+            "timeLength": 59.91,
+            "uniqueID": 83
+        }, {
+            "Description": "Chicken distress #2",
+            "soundFile": "chicken_distress_2",
+            "timeLength": 47.24,
+            "uniqueID": 84
+        }, {
+            "Description": "Chicks chirping #1",
+            "soundFile": "chicks_chirping",
+            "timeLength": 1.26,
+            "uniqueID": 85
+        }, {
+            "Description": "Chicks chirping #2",
+            "soundFile": "chicks_chirping_2",
+            "timeLength": 1.89,
+            "uniqueID": 86
+        }, {
+            "Description": "Chicks chirping #3",
+            "soundFile": "chicks_chirping_3",
+            "timeLength": 27.54,
+            "uniqueID": 87
+        }, {
+            "Description": "Rooster crowing",
+            "soundFile": "rooster_crowing",
+            "timeLength": 3.69,
+            "uniqueID": 88
+        }]
+    }, {
+        "Description": "chirps and typical calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=chipmunks",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=chipmunks",
+        "animalName": "chipmunks",
+        "image": "chipmunk",
+        "idRes": 2130837520,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Chipmunk #1",
+            "soundFile": "chipmunk_1",
+            "timeLength": 25.05,
+            "uniqueID": 89
+        }, {
+            "Description": "Chipmunk #2",
+            "soundFile": "chipmunk_2",
+            "timeLength": 24.42,
+            "uniqueID": 90
+        }, {
+            "Description": "Chipmunk #3",
+            "soundFile": "chipmunk_3",
+            "timeLength": 20.74,
+            "uniqueID": 91
+        }, {
+            "Description": "Chipmunk #4",
+            "soundFile": "chipmunk_4",
+            "timeLength": 14.45,
+            "uniqueID": 92
+        }]
+    }, {
+        "Description": "moos, whines, warnings…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=cows",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=cows",
+        "animalName": "cows",
+        "image": "cow",
+        "idRes": 2130837521,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Cattle calf call",
+            "soundFile": "cattle_calf_call",
+            "timeLength": 10.53,
+            "uniqueID": 93
+        }, {
+            "Description": "Cattle bull warning",
+            "soundFile": "cattle_bull_warning",
+            "timeLength": 8.88,
+            "uniqueID": 94
+        }, {
+            "Description": "Moo #1",
+            "soundFile": "cattle_moo_1",
+            "timeLength": 1.12,
+            "uniqueID": 95
+        }, {
+            "Description": "Moo #2",
+            "soundFile": "cattle_moo_2",
+            "timeLength": 1.44,
+            "uniqueID": 96
+        }, {
+            "Description": "Moo #3",
+            "soundFile": "cattle_moo_3",
+            "timeLength": 1.19,
+            "uniqueID": 97
+        }, {
+            "Description": "Moo #4",
+            "soundFile": "cattle_moo_4",
+            "timeLength": 1.18,
+            "uniqueID": 98
+        }, {
+            "Description": "Moo #5",
+            "soundFile": "cattle_moo_5",
+            "timeLength": 1.62,
+            "uniqueID": 99
+        }, {
+            "Description": "Moo #6",
+            "soundFile": "cattle_moo_6",
+            "timeLength": 1.75,
+            "uniqueID": 100
+        }, {
+            "Description": "Cattle whine #1",
+            "soundFile": "cattle_whine_1",
+            "timeLength": 1.18,
+            "uniqueID": 101
+        }, {
+            "Description": "Cattle whine #2",
+            "soundFile": "cattle_whine_2",
+            "timeLength": 1.12,
+            "uniqueID": 102
+        }, {
+            "Description": "Cattle whine #3",
+            "soundFile": "cattle_whine_3",
+            "timeLength": 1.85,
+            "uniqueID": 103
+        }]
+    }, {
+        "Description": "howls, distress, prey…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=coyotes",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=coyotes",
+        "animalName": "coyotes",
+        "image": "coyote",
+        "idRes": 2130837522,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Turkey attack",
+            "soundFile": "coyote_turkey_distress",
+            "timeLength": 34.69,
+            "uniqueID": 104
+        }, {
+            "Description": "Attacking calves",
+            "soundFile": "coyote_killing_calves",
+            "timeLength": 401.01,
+            "uniqueID": 105
+        }, {
+            "Description": "Fawn attack",
+            "soundFile": "coyote_fawn_distress",
+            "timeLength": 31.87,
+            "uniqueID": 106
+        }, {
+            "Description": "Cottontail distress",
+            "soundFile": "coyote_cottontail_distress",
+            "timeLength": 32.29,
+            "uniqueID": 107
+        }, {
+            "Description": "Coyote distress #1",
+            "soundFile": "coyote_distress",
+            "timeLength": 62.44,
+            "uniqueID": 108
+        }, {
+            "Description": "Coyote distress #2",
+            "soundFile": "coyote_distress_2",
+            "timeLength": 58.37,
+            "uniqueID": 109
+        }, {
+            "Description": "Pup distress #1",
+            "soundFile": "coyote_pup_distress",
+            "timeLength": 4.02,
+            "uniqueID": 110
+        }, {
+            "Description": "Pup distress #2",
+            "soundFile": "coyote_pup_distress_2",
+            "timeLength": 59.41,
+            "uniqueID": 111
+        }, {
+            "Description": "Pup distress #3",
+            "soundFile": "coyote_pup_distress_3",
+            "timeLength": 61.21,
+            "uniqueID": 112
+        }, {
+            "Description": "Pup distress #4",
+            "soundFile": "coyote_pup_distress_4",
+            "timeLength": 60.32,
+            "uniqueID": 113
+        }, {
+            "Description": "Coyote Locator #1",
+            "soundFile": "coyote_locator_1",
+            "timeLength": 27.45,
+            "uniqueID": 114
+        }, {
+            "Description": "Coyote Locator #2",
+            "soundFile": "coyote_locator_2",
+            "timeLength": 6.27,
+            "uniqueID": 115
+        }, {
+            "Description": "Coyote Locator #3",
+            "soundFile": "coyote_locator_3",
+            "timeLength": 6.51,
+            "uniqueID": 116
+        }, {
+            "Description": "Coyote Locator #4",
+            "soundFile": "coyote_locator_4",
+            "timeLength": 4.29,
+            "uniqueID": 117
+        }, {
+            "Description": "Locator siren #1",
+            "soundFile": "coyote_locator_siren_1",
+            "timeLength": 15.63,
+            "uniqueID": 118
+        }, {
+            "Description": "Locator siren #2",
+            "soundFile": "coyote_locator_siren_2",
+            "timeLength": 15.21,
+            "uniqueID": 119
+        }, {
+            "Description": "Coyote Challenge #1",
+            "soundFile": "coyote_challenge_1",
+            "timeLength": 58.65,
+            "uniqueID": 120
+        }, {
+            "Description": "Coyote Challenge #2",
+            "soundFile": "coyote_challenge_2",
+            "timeLength": 55.6,
+            "uniqueID": 121
+        }, {
+            "Description": "Coyote Challenge #3",
+            "soundFile": "coyote_challenge_3",
+            "timeLength": 5.0,
+            "uniqueID": 122
+        }, {
+            "Description": "Coyote Challenge #4",
+            "soundFile": "coyote_challenge_4",
+            "timeLength": 6.8,
+            "uniqueID": 123
+        }, {
+            "Description": "Coyote Challenge #5",
+            "soundFile": "coyote_challenge_5",
+            "timeLength": 57.09,
+            "uniqueID": 124
+        }, {
+            "Description": "Coyote Challenge #6",
+            "soundFile": "coyote_challenge_6",
+            "timeLength": 59.85,
+            "uniqueID": 125
+        }, {
+            "Description": "Coyote Challenge #7",
+            "soundFile": "coyote_challenge_7",
+            "timeLength": 59.75,
+            "uniqueID": 126
+        }, {
+            "Description": "Coyote Challenge #8",
+            "soundFile": "coyote_challenge_8",
+            "timeLength": 18.91,
+            "uniqueID": 127
+        }, {
+            "Description": "Coyote Challenge #9",
+            "soundFile": "coyote_challenge_9",
+            "timeLength": 60.35,
+            "uniqueID": 128
+        }, {
+            "Description": "Rodent squeaker",
+            "soundFile": "coyote_rodent_squeaker",
+            "timeLength": 56.48,
+            "uniqueID": 129
+        }, {
+            "Description": "Bird squeaker",
+            "soundFile": "coyote_bird_squeaker",
+            "timeLength": 58.1,
+            "uniqueID": 130
+        }, {
+            "Description": "Howling #1",
+            "soundFile": "coyote_howls_1",
+            "timeLength": 6.5,
+            "uniqueID": 131
+        }, {
+            "Description": "Howling #2",
+            "soundFile": "coyote_howls_2",
+            "timeLength": 5.33,
+            "uniqueID": 132
+        }, {
+            "Description": "Howling #3",
+            "soundFile": "coyote_howls_3",
+            "timeLength": 11.29,
+            "uniqueID": 133
+        }, {
+            "Description": "Howling #4",
+            "soundFile": "coyote_howls_4",
+            "timeLength": 51.83,
+            "uniqueID": 134
+        }, {
+            "Description": "Howling #5",
+            "soundFile": "coyote_howls_5",
+            "timeLength": 4.42,
+            "uniqueID": 135
+        }, {
+            "Description": "Howling #6",
+            "soundFile": "coyote_howls_6",
+            "timeLength": 2.44,
+            "uniqueID": 136
+        }, {
+            "Description": "Howling #7",
+            "soundFile": "coyote_howls_7",
+            "timeLength": 3.71,
+            "uniqueID": 137
+        }, {
+            "Description": "Howls \u0026 barks #1",
+            "soundFile": "coyote_howls_bark",
+            "timeLength": 3.37,
+            "uniqueID": 138
+        }, {
+            "Description": "Howls \u0026 barks #2",
+            "soundFile": "coyote_howls_bark_2",
+            "timeLength": 24.16,
+            "uniqueID": 139
+        }, {
+            "Description": "Coyote Greeting",
+            "soundFile": "coyote_greeting",
+            "timeLength": 3.38,
+            "uniqueID": 140
+        }, {
+            "Description": "Greeting howl",
+            "soundFile": "coyote_greeting_howl",
+            "timeLength": 58.65,
+            "uniqueID": 141
+        }, {
+            "Description": "Female howl",
+            "soundFile": "coyote_female_howl",
+            "timeLength": 12.96,
+            "uniqueID": 142
+        }, {
+            "Description": "Coyote call",
+            "soundFile": "coyote_calls_1",
+            "timeLength": 4.45,
+            "uniqueID": 143
+        }, {
+            "Description": "Bark \u0026 whining",
+            "soundFile": "coyote_bark_whine",
+            "timeLength": 2.53,
+            "uniqueID": 144
+        }, {
+            "Description": "Coyote Barking",
+            "soundFile": "coyote_bark_1",
+            "timeLength": 5.3,
+            "uniqueID": 145
+        }, {
+            "Description": "Coyote pack #1",
+            "soundFile": "coyote_pack",
+            "timeLength": 18.63,
+            "uniqueID": 146
+        }, {
+            "Description": "Coyote pack #2",
+            "soundFile": "coyote_pack_2",
+            "timeLength": 11.82,
+            "uniqueID": 147
+        }, {
+            "Description": "Coyote pack #3",
+            "soundFile": "coyote_pack_3",
+            "timeLength": 61.34,
+            "uniqueID": 148
+        }, {
+            "Description": "Coyote talk",
+            "soundFile": "coyote_talk",
+            "timeLength": 1.15,
+            "uniqueID": 149
+        }, {
+            "Description": "Coyote vocalizations",
+            "soundFile": "coyote_vocalizations",
+            "timeLength": 18.55,
+            "uniqueID": 150
+        }, {
+            "Description": "Coyote yips",
+            "soundFile": "coyote_yips",
+            "timeLength": 1.99,
+            "uniqueID": 151
+        }, {
+            "Description": "Woodpecker in distress",
+            "soundFile": "coyote_woodpecker_in_distress",
+            "timeLength": 38.27,
+            "uniqueID": 152
+        }, {
+            "Description": "Lip squeak #1",
+            "soundFile": "coyote_lip_squeak",
+            "timeLength": 22.68,
+            "uniqueID": 153
+        }, {
+            "Description": "Lip squeak #2",
+            "soundFile": "coyote_lip_squeak_2",
+            "timeLength": 22.32,
+            "uniqueID": 154
+        }, {
+            "Description": "Lip squeak #3",
+            "soundFile": "coyote_lip_squeak_3",
+            "timeLength": 22.13,
+            "uniqueID": 155
+        }, {
+            "Description": "Injured bird call",
+            "soundFile": "coyote_injured_bird",
+            "timeLength": 27.92,
+            "uniqueID": 156
+        }, {
+            "Description": "Small dogs barking",
+            "soundFile": "coyote_small_dogs",
+            "timeLength": 32.26,
+            "uniqueID": 157
+        }]
+    }, {
+        "Description": "fights, distress, calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=crows",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=crows",
+        "animalName": "crows",
+        "image": "crows",
+        "idRes": 2130837523,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Raven #1",
+            "soundFile": "raven_1",
+            "timeLength": 14.09,
+            "uniqueID": 158
+        }, {
+            "Description": "Raven #2",
+            "soundFile": "raven_2",
+            "timeLength": 7.18,
+            "uniqueID": 159
+        }, {
+            "Description": "Raven #3",
+            "soundFile": "raven_3",
+            "timeLength": 1.31,
+            "uniqueID": 160
+        }, {
+            "Description": "Raven #4",
+            "soundFile": "raven_4",
+            "timeLength": 13.33,
+            "uniqueID": 161
+        }, {
+            "Description": "Crows fighting",
+            "soundFile": "crows_fighting",
+            "timeLength": 3.19,
+            "uniqueID": 162
+        }, {
+            "Description": "Crows fight hawk",
+            "soundFile": "crow_hawk_fight",
+            "timeLength": 35.06,
+            "uniqueID": 163
+        }, {
+            "Description": "Crows fight owl #1",
+            "soundFile": "crow_fights_owl",
+            "timeLength": 3.19,
+            "uniqueID": 164
+        }, {
+            "Description": "Crows fight owl #2",
+            "soundFile": "crows_attacking_owl",
+            "timeLength": 80.94,
+            "uniqueID": 165
+        }, {
+            "Description": "Crows fight owl #3",
+            "soundFile": "crow_owl_fight",
+            "timeLength": 59.35,
+            "uniqueID": 166
+        }, {
+            "Description": "Owl cripples crow",
+            "soundFile": "owl_cripples_crow",
+            "timeLength": 8.4,
+            "uniqueID": 167
+        }, {
+            "Description": "Rabbit killing crows",
+            "soundFile": "rabbit_fighting_crows",
+            "timeLength": 24.25,
+            "uniqueID": 168
+        }, {
+            "Description": "Crow death cry",
+            "soundFile": "crow_death_cry",
+            "timeLength": 3.19,
+            "uniqueID": 169
+        }, {
+            "Description": "Crow distress call",
+            "soundFile": "crow_distress",
+            "timeLength": 12.72,
+            "uniqueID": 170
+        }, {
+            "Description": "Crow frenzy #1",
+            "soundFile": "crow_frenzy",
+            "timeLength": 13.04,
+            "uniqueID": 171
+        }, {
+            "Description": "Crow frenzy #2",
+            "soundFile": "crow_frenzy_2",
+            "timeLength": 60.11,
+            "uniqueID": 172
+        }, {
+            "Description": "Crow danger",
+            "soundFile": "crow_danger",
+            "timeLength": 2.2,
+            "uniqueID": 173
+        }, {
+            "Description": "Crow rally call",
+            "soundFile": "crow_rally",
+            "timeLength": 4.29,
+            "uniqueID": 174
+        }, {
+            "Description": "Crow attention call #1",
+            "soundFile": "crow_attention_call",
+            "timeLength": 4.81,
+            "uniqueID": 175
+        }, {
+            "Description": "Crow attention call #2",
+            "soundFile": "look_here_call",
+            "timeLength": 2.46,
+            "uniqueID": 176
+        }, {
+            "Description": "Two crows",
+            "soundFile": "two_crows",
+            "timeLength": 12.06,
+            "uniqueID": 177
+        }, {
+            "Description": "Comb call",
+            "soundFile": "rattle_or_comb_call",
+            "timeLength": 8.78,
+            "uniqueID": 178
+        }, {
+            "Description": "Caws \u0026 comb call",
+            "soundFile": "crow_cawsandcombcall",
+            "timeLength": 18.23,
+            "uniqueID": 179
+        }, {
+            "Description": "Rapid caws",
+            "soundFile": "rapid_series_of_caws",
+            "timeLength": 1.83,
+            "uniqueID": 180
+        }, {
+            "Description": "Caw #1",
+            "soundFile": "crow_caw_1",
+            "timeLength": 2.25,
+            "uniqueID": 181
+        }, {
+            "Description": "Caw #2",
+            "soundFile": "crow_caw_2",
+            "timeLength": 0.44,
+            "uniqueID": 182
+        }, {
+            "Description": "Caw #3",
+            "soundFile": "crow_caw_3",
+            "timeLength": 2.66,
+            "uniqueID": 183
+        }, {
+            "Description": "Caw #4",
+            "soundFile": "crow_caw_4",
+            "timeLength": 1.04,
+            "uniqueID": 184
+        }, {
+            "Description": "Typical crow #1",
+            "soundFile": "typical_call_1",
+            "timeLength": 8.46,
+            "uniqueID": 185
+        }, {
+            "Description": "Typical crow #2",
+            "soundFile": "typical_call_2",
+            "timeLength": 16.35,
+            "uniqueID": 186
+        }, {
+            "Description": "Typical crow #3",
+            "soundFile": "typical_call_3",
+            "timeLength": 4.62,
+            "uniqueID": 187
+        }, {
+            "Description": "Typical crow #4",
+            "soundFile": "typical_call_4",
+            "timeLength": 2.84,
+            "uniqueID": 188
+        }, {
+            "Description": "Typical crow #5",
+            "soundFile": "crow_calls",
+            "timeLength": 16.74,
+            "uniqueID": 189
+        }]
+    }, {
+        "Description": "bleats, grunts, sparring…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=deer",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=deer",
+        "animalName": "deer \u0026 antelope",
+        "image": "deer",
+        "idRes": 2130837525,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Doe cough",
+            "soundFile": "deer_doe_cough",
+            "timeLength": 2.52,
+            "uniqueID": 190
+        }, {
+            "Description": "Hurt fawn #1",
+            "soundFile": "deer_hurt_fawn_1",
+            "timeLength": 6.46,
+            "uniqueID": 191
+        }, {
+            "Description": "Hurt fawn #2",
+            "soundFile": "deer_hurt_fawn_2",
+            "timeLength": 4.61,
+            "uniqueID": 192
+        }, {
+            "Description": "Hurt fawn #3",
+            "soundFile": "deer_hurt_fawn_3",
+            "timeLength": 5.56,
+            "uniqueID": 193
+        }, {
+            "Description": "Fallow deer #1",
+            "soundFile": "fallow_deer_1",
+            "timeLength": 15.81,
+            "uniqueID": 194
+        }, {
+            "Description": "Fallow deer #2",
+            "soundFile": "fallow_deer_2",
+            "timeLength": 43.5,
+            "uniqueID": 195
+        }, {
+            "Description": "Fallow deer #3",
+            "soundFile": "fallow_deer_3",
+            "timeLength": 27.18,
+            "uniqueID": 196
+        }, {
+            "Description": "Muntjac call",
+            "soundFile": "muntjac_call",
+            "timeLength": 3.03,
+            "uniqueID": 197
+        }, {
+            "Description": "Muntjac deer #1",
+            "soundFile": "muntjac_deer_1",
+            "timeLength": 16.04,
+            "uniqueID": 198
+        }, {
+            "Description": "Muntjac deer #2",
+            "soundFile": "muntjac_deer_2",
+            "timeLength": 21.26,
+            "uniqueID": 199
+        }, {
+            "Description": "Muntjac deer #3",
+            "soundFile": "muntjac_deer_3",
+            "timeLength": 10.29,
+            "uniqueID": 200
+        }, {
+            "Description": "Red deer rutting",
+            "soundFile": "red_deer_rutting",
+            "timeLength": 30.46,
+            "uniqueID": 201
+        }, {
+            "Description": "Red deer stag",
+            "soundFile": "red_deer_stag",
+            "timeLength": 21.47,
+            "uniqueID": 202
+        }, {
+            "Description": "Red deer stag roaring",
+            "soundFile": "red_deer_stag_roaring",
+            "timeLength": 12.96,
+            "uniqueID": 203
+        }, {
+            "Description": "Doe bleat #1",
+            "soundFile": "deer_estrus_bleat",
+            "timeLength": 0.94,
+            "uniqueID": 204
+        }, {
+            "Description": "Doe bleat #2",
+            "soundFile": "deer_doe_bleat_3",
+            "timeLength": 1.57,
+            "uniqueID": 205
+        }, {
+            "Description": "Estrus bleat mild",
+            "soundFile": "doe_estrus_bleat_mild",
+            "timeLength": 82.11,
+            "uniqueID": 206
+        }, {
+            "Description": "Estrus bleat heavy",
+            "soundFile": "doe_estrus_bleat_heavy",
+            "timeLength": 35.48,
+            "uniqueID": 207
+        }, {
+            "Description": "Doe grunt",
+            "soundFile": "deer_doe_grunt",
+            "timeLength": 0.39,
+            "uniqueID": 208
+        }, {
+            "Description": "Breeding bellow",
+            "soundFile": "deer_breeding_bellow",
+            "timeLength": 4.18,
+            "uniqueID": 209
+        }, {
+            "Description": "Buck bawl",
+            "soundFile": "deer_buck_bawl",
+            "timeLength": 1.25,
+            "uniqueID": 210
+        }, {
+            "Description": "Buck dominant grunt",
+            "soundFile": "deer_buck_dominant_grunt",
+            "timeLength": 98.2,
+            "uniqueID": 211
+        }, {
+            "Description": "Buck grunt",
+            "soundFile": "deer_buck_grunt",
+            "timeLength": 0.34,
+            "uniqueID": 212
+        }, {
+            "Description": "Buck rubbing tree",
+            "soundFile": "deer_buck_rubbing_tree",
+            "timeLength": 34.49,
+            "uniqueID": 213
+        }, {
+            "Description": "Bucks sparring #1",
+            "soundFile": "deer_bucks_sparring",
+            "timeLength": 13.49,
+            "uniqueID": 214
+        }, {
+            "Description": "Bucks sparring #2",
+            "soundFile": "deer_bucks_sparring_2",
+            "timeLength": 23.39,
+            "uniqueID": 215
+        }, {
+            "Description": "Bucks sparring #3",
+            "soundFile": "deer_bucks_sparring_3",
+            "timeLength": 49.69,
+            "uniqueID": 216
+        }, {
+            "Description": "Angry buck grunt",
+            "soundFile": "deer_raging_buck_grunt",
+            "timeLength": 4.24,
+            "uniqueID": 217
+        }, {
+            "Description": "Alert snort",
+            "soundFile": "deer_buck_snort_wheeze",
+            "timeLength": 33.52,
+            "uniqueID": 218
+        }, {
+            "Description": "Buck snort",
+            "soundFile": "deer_buck_snort",
+            "timeLength": 0.57,
+            "uniqueID": 219
+        }, {
+            "Description": "Buck social grunt",
+            "soundFile": "deer_buck_social_grunt",
+            "timeLength": 49.8,
+            "uniqueID": 220
+        }, {
+            "Description": "Fawn distress #1",
+            "soundFile": "deer_fawn_distress",
+            "timeLength": 33.73,
+            "uniqueID": 221
+        }, {
+            "Description": "Fawn distress #2",
+            "soundFile": "deer_fawn_distress_2",
+            "timeLength": 46.04,
+            "uniqueID": 222
+        }, {
+            "Description": "Pawning",
+            "soundFile": "deer_pawning",
+            "timeLength": 15.02,
+            "uniqueID": 223
+        }, {
+            "Description": "Roe deer calls",
+            "soundFile": "deer_roe_deer_calls",
+            "timeLength": 13.96,
+            "uniqueID": 224
+        }, {
+            "Description": "Sika buck",
+            "soundFile": "deer_sika_buck",
+            "timeLength": 5.62,
+            "uniqueID": 225
+        }, {
+            "Description": "Sika bugle",
+            "soundFile": "deer_sika_bugle",
+            "timeLength": 1.81,
+            "uniqueID": 226
+        }, {
+            "Description": "Lone stag",
+            "soundFile": "deer_stag_at_night",
+            "timeLength": 45.01,
+            "uniqueID": 227
+        }, {
+            "Description": "Tending grunts",
+            "soundFile": "deer_tending_grunts",
+            "timeLength": 4.45,
+            "uniqueID": 228
+        }, {
+            "Description": "Deer Wheeze",
+            "soundFile": "deer_wheeze",
+            "timeLength": 1.41,
+            "uniqueID": 229
+        }, {
+            "Description": "Buck Grunt 2",
+            "soundFile": "deer_buck_grunt_2",
+            "timeLength": 5.99,
+            "uniqueID": 576
+        }, {
+            "Description": "Lost Fawn",
+            "soundFile": "deer_lost_fawn",
+            "timeLength": 4.4,
+            "uniqueID": 577
+        }, {
+            "Description": "Roe Deer Screaming",
+            "soundFile": "deer_doe_screaming",
+            "timeLength": 18.87,
+            "uniqueID": 578
+        }, {
+            "Description": "Red Stag Aggro",
+            "soundFile": "red_stag_aggro",
+            "timeLength": 4.62,
+            "grafBoys": true,
+            "uniqueID": 598
+        }, {
+            "Description": "Red Stag Location Roar",
+            "soundFile": "red_stag_location_roar",
+            "timeLength": 3.24,
+            "grafBoys": true,
+            "uniqueID": 599
+        }, {
+            "Description": "Red Stag Moan",
+            "soundFile": "red_stag_aggro",
+            "timeLength": 4.62,
+            "grafBoys": true,
+            "uniqueID": 600
+        }, {
+            "Description": "Red Stag Spiker",
+            "soundFile": "red_stag_spiker",
+            "timeLength": 7.86,
+            "grafBoys": true,
+            "uniqueID": 601
+        }, {
+            "Description": "Red Stag Violence",
+            "soundFile": "red_stag_violence",
+            "timeLength": 18.55,
+            "grafBoys": true,
+            "uniqueID": 602
+        }, {
+            "Description": "Sika Stag Meew",
+            "soundFile": "sika_stag_meew",
+            "timeLength": 7.31,
+            "grafBoys": true,
+            "uniqueID": 603
+        }, {
+            "Description": "Sika Stag Single Call",
+            "soundFile": "sika_stag_single_call",
+            "timeLength": 3.34,
+            "grafBoys": true,
+            "uniqueID": 604
+        }, {
+            "Description": "Snort, Wheeze",
+            "soundFile": "snort_wheeze",
+            "timeLength": 2.93,
+            "grafBoys": true,
+            "uniqueID": 605
+        }, {
+            "Description": "Steenbuck Distress",
+            "soundFile": "steenbuck_distres",
+            "timeLength": 9.25,
+            "grafBoys": true,
+            "uniqueID": 606
+        }, {
+            "Description": "Whitetail Antler Tree Rub",
+            "soundFile": "whitetail_antler_tree_rub",
+            "timeLength": 5.49,
+            "uniqueID": 607
+        }, {
+            "Description": "Whitetail Buck Battle",
+            "soundFile": "whitetail_buck_battle",
+            "timeLength": 6.19,
+            "uniqueID": 608
+        }, {
+            "Description": "Whitetail Deer Step",
+            "soundFile": "whitetail_deer_step",
+            "timeLength": 0.5,
+            "uniqueID": 609
+        }, {
+            "Description": "Whitetail Dominant Grunt",
+            "soundFile": "whitetail_dominant_grunt",
+            "timeLength": 0.65,
+            "uniqueID": 610
+        }, {
+            "Description": "Whitetail Estrus Bleat",
+            "soundFile": "whitetail_estrus_bleat",
+            "timeLength": 1.15,
+            "uniqueID": 611
+        }, {
+            "Description": "Whitetail Fawn Distress",
+            "soundFile": "whitetail_fawn_distress",
+            "timeLength": 3.13,
+            "uniqueID": 612
+        }, {
+            "Description": "Whitetail Forage Paw",
+            "soundFile": "whitetail_forage_paw",
+            "timeLength": 1.25,
+            "uniqueID": 613
+        }, {
+            "Description": "Whitetail Ground Scrape",
+            "soundFile": "whitetail_ground_scrape",
+            "timeLength": 4.23,
+            "uniqueID": 614
+        }, {
+            "Description": "Whitetail Snort Wheeze",
+            "soundFile": "whitetail_snort_wheeze",
+            "timeLength": 4.73,
+            "uniqueID": 615
+        }, {
+            "Description": "Whitetail Social Grunt",
+            "soundFile": "whitetail_social_grunt",
+            "timeLength": 0.31,
+            "uniqueID": 616
+        }, {
+            "Description": "Whitetail Social Sparring",
+            "soundFile": "whitetail_social_sparring",
+            "timeLength": 4.15,
+            "uniqueID": 617
+        }, {
+            "Description": "Whitetail Tending Grunt",
+            "soundFile": "whitetail_tending_grunt",
+            "timeLength": 0.55,
+            "uniqueID": 618
+        }, {
+            "Description": "Muntjac doe barking",
+            "soundFile": "muntjac_doe_barking",
+            "timeLength": 118.71,
+            "uniqueID": 714
+        }, {
+            "Description": "Steenbok",
+            "soundFile": "steenbok",
+            "timeLength": 97.97,
+            "uniqueID": 591
+        }]
+    }, {
+        "Description": "brays and whinnys…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=donkeys",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=donkeys",
+        "animalName": "donkeys",
+        "image": "donkey",
+        "idRes": 2130837526,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Young donkey bray",
+            "soundFile": "donkey_young_bray",
+            "timeLength": 3.09,
+            "uniqueID": 230
+        }, {
+            "Description": "Donkey Whinney",
+            "soundFile": "donkey_whinney",
+            "timeLength": 1.49,
+            "uniqueID": 231
+        }, {
+            "Description": "Bray #1",
+            "soundFile": "donkey_bray_1",
+            "timeLength": 0.69,
+            "uniqueID": 232
+        }, {
+            "Description": "Bray #2",
+            "soundFile": "donkey_bray_2",
+            "timeLength": 3.16,
+            "uniqueID": 233
+        }, {
+            "Description": "Bray #3",
+            "soundFile": "donkey_bray_3",
+            "timeLength": 1.05,
+            "uniqueID": 234
+        }, {
+            "Description": "Bray #4",
+            "soundFile": "donkey_bray_4",
+            "timeLength": 2.25,
+            "uniqueID": 235
+        }, {
+            "Description": "Bray #5",
+            "soundFile": "donkey_bray_5",
+            "timeLength": 4.34,
+            "uniqueID": 236
+        }]
+    }, {
+        "Description": "calls, challenges, quacks…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=ducks",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=ducks",
+        "animalName": "ducks",
+        "image": "duck",
+        "idRes": 2130837527,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Duck hail call",
+            "soundFile": "duck_hail_call",
+            "timeLength": 5.05,
+            "uniqueID": 237
+        }, {
+            "Description": "Duck call",
+            "soundFile": "duck_call",
+            "timeLength": 0.95,
+            "uniqueID": 238
+        }, {
+            "Description": "Duck greeting call",
+            "soundFile": "duck_greeting_call",
+            "timeLength": 7.58,
+            "uniqueID": 239
+        }, {
+            "Description": "Group of ducks",
+            "soundFile": "duck_group",
+            "timeLength": 23.98,
+            "uniqueID": 240
+        }, {
+            "Description": "Upset duck",
+            "soundFile": "duck_upset",
+            "timeLength": 5.44,
+            "uniqueID": 241
+        }, {
+            "Description": "Scared duck",
+            "soundFile": "duck_scared",
+            "timeLength": 2.8,
+            "uniqueID": 242
+        }, {
+            "Description": "Mallard comeback #1",
+            "soundFile": "duck_mallard_comeback_call",
+            "timeLength": 8.03,
+            "uniqueID": 243
+        }, {
+            "Description": "Mallard comeback #2",
+            "soundFile": "duck_mallard_comeback_2",
+            "timeLength": 10.9,
+            "uniqueID": 244
+        }, {
+            "Description": "Mallard greeting #1",
+            "soundFile": "duck_mallard_greeting",
+            "timeLength": 8.24,
+            "uniqueID": 245
+        }, {
+            "Description": "Mallard greeting #2",
+            "soundFile": "duck_mallard_greeting_2",
+            "timeLength": 9.86,
+            "uniqueID": 246
+        }, {
+            "Description": "Mallard greeting #3",
+            "soundFile": "duck_mallard_greeting_3",
+            "timeLength": 7.98,
+            "uniqueID": 247
+        }, {
+            "Description": "Mallard flying",
+            "soundFile": "duck_mallard_flying",
+            "timeLength": 31.69,
+            "uniqueID": 248
+        }, {
+            "Description": "Mallard hail",
+            "soundFile": "duck_mallard_hail",
+            "timeLength": 8.94,
+            "uniqueID": 249
+        }, {
+            "Description": "Lonesome mallard hen",
+            "soundFile": "duck_mallard_lonesome_hen",
+            "timeLength": 9.23,
+            "uniqueID": 250
+        }, {
+            "Description": "Quack #1",
+            "soundFile": "duck_quack",
+            "timeLength": 0.24,
+            "uniqueID": 251
+        }, {
+            "Description": "Quack #2",
+            "soundFile": "duck_quack_2",
+            "timeLength": 0.91,
+            "uniqueID": 252
+        }, {
+            "Description": "Quack #3",
+            "soundFile": "duck_quack_3",
+            "timeLength": 0.84,
+            "uniqueID": 253
+        }, {
+            "Description": "Quack #4",
+            "soundFile": "duck_quack_4",
+            "timeLength": 3.19,
+            "uniqueID": 254
+        }, {
+            "Description": "Quack #5",
+            "soundFile": "duck_quack_5",
+            "timeLength": 11.14,
+            "uniqueID": 255
+        }, {
+            "Description": "Black bellied whistle",
+            "soundFile": "duck_black_bellied_whistling",
+            "timeLength": 10.09,
+            "uniqueID": 256
+        }, {
+            "Description": "Cinnamon teal challenge",
+            "soundFile": "duck_cinnamon_teal_challenge",
+            "timeLength": 4.61,
+            "uniqueID": 257
+        }, {
+            "Description": "Green winged teal",
+            "soundFile": "duck_green_winged_teal",
+            "timeLength": 3.67,
+            "uniqueID": 258
+        }, {
+            "Description": "White headed duck",
+            "soundFile": "duck_white_headed",
+            "timeLength": 3.09,
+            "uniqueID": 259
+        }, {
+            "Description": "Wood duck #1",
+            "soundFile": "wood_duck_1",
+            "timeLength": 4.66,
+            "uniqueID": 260
+        }, {
+            "Description": "Wood duck #2",
+            "soundFile": "wood_duck_2",
+            "timeLength": 4.21,
+            "uniqueID": 261
+        }, {
+            "Description": "Wood duck #3",
+            "soundFile": "wood_duck_3",
+            "timeLength": 3.93,
+            "uniqueID": 262
+        }, {
+            "Description": "Wood duck #4",
+            "soundFile": "wood_duck_4",
+            "timeLength": 1.73,
+            "uniqueID": 263
+        }, {
+            "Description": "Wood duck greeting",
+            "soundFile": "wood_duck_greeting",
+            "timeLength": 3.64,
+            "uniqueID": 264
+        }, {
+            "Description": "Wood duck male",
+            "soundFile": "wood_duck_male",
+            "timeLength": 4.55,
+            "uniqueID": 265
+        }, {
+            "Description": "Paradise Duck Greeting",
+            "soundFile": "ducks_paradise_greeting",
+            "timeLength": 20.01,
+            "uniqueID": 579
+        }, {
+            "Description": "Laydown Call",
+            "soundFile": "ducks_laydown_call",
+            "timeLength": 7.51,
+            "uniqueID": 580
+        }, {
+            "Description": "Confidence call",
+            "soundFile": "graf_confidence_call",
+            "timeLength": 14.97,
+            "grafBoys": true,
+            "uniqueID": 760
+        }, {
+            "Description": "Goose comeback",
+            "soundFile": "graf_goose_comeback",
+            "timeLength": 14.89,
+            "grafBoys": true,
+            "uniqueID": 761
+        }, {
+            "Description": "Goose double cluck",
+            "soundFile": "graf_goose_double_cluck",
+            "timeLength": 13.98,
+            "grafBoys": true,
+            "uniqueID": 762
+        }, {
+            "Description": "Goose feed",
+            "soundFile": "graf_goose_feed",
+            "timeLength": 19.75,
+            "grafBoys": true,
+            "uniqueID": 763
+        }, {
+            "Description": "Goose greeting",
+            "soundFile": "graf_goose_greeting",
+            "timeLength": 12.64,
+            "grafBoys": true,
+            "uniqueID": 764
+        }, {
+            "Description": "Mallard comeback #3",
+            "soundFile": "mallard_comeback",
+            "timeLength": 24.82,
+            "grafBoys": true,
+            "uniqueID": 716
+        }, {
+            "Description": "Mallard feeding",
+            "soundFile": "mallard_feeding",
+            "timeLength": 10.68,
+            "grafBoys": true,
+            "uniqueID": 717
+        }, {
+            "Description": "Mallard greeting #4",
+            "soundFile": "mallard_greeting",
+            "timeLength": 2.93,
+            "grafBoys": true,
+            "uniqueID": 718
+        }, {
+            "Description": "Mallard laydown",
+            "soundFile": "mallard_laydown",
+            "timeLength": 9.59,
+            "grafBoys": true,
+            "uniqueID": 719
+        }, {
+            "Description": "Paradise duck greeting #2",
+            "soundFile": "paradise_greeting",
+            "timeLength": 20.04,
+            "grafBoys": true,
+            "uniqueID": 720
+        }]
+    }, {
+        "Description": "bellows, bugles, sparring…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=elk",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=elk",
+        "animalName": "elk",
+        "image": "elk",
+        "idRes": 2130837528,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Elk bark",
+            "soundFile": "elk_bark",
+            "timeLength": 4.61,
+            "uniqueID": 266
+        }, {
+            "Description": "Elk Bugle #1",
+            "soundFile": "elk_bugle_1",
+            "timeLength": 2.12,
+            "uniqueID": 267
+        }, {
+            "Description": "Elk Bugle #2",
+            "soundFile": "elk_bugle_2",
+            "timeLength": 3.47,
+            "uniqueID": 268
+        }, {
+            "Description": "Elk bugle #3",
+            "soundFile": "elk_bugle_3",
+            "timeLength": 3.47,
+            "uniqueID": 269
+        }, {
+            "Description": "Elk bugle #4",
+            "soundFile": "elk_bugle_4",
+            "timeLength": 5.98,
+            "uniqueID": 270
+        }, {
+            "Description": "Elk bugle #5",
+            "soundFile": "elk_bugle_5",
+            "timeLength": 2.28,
+            "uniqueID": 271
+        }, {
+            "Description": "Elk bugle #6",
+            "soundFile": "elk_bugle_6",
+            "timeLength": 5.62,
+            "uniqueID": 272
+        }, {
+            "Description": "Elk bugle #7",
+            "soundFile": "elk_bugle_7",
+            "timeLength": 9.96,
+            "uniqueID": 273
+        }, {
+            "Description": "Elk bugle #8",
+            "soundFile": "elk_bugle_8",
+            "timeLength": 3.06,
+            "uniqueID": 274
+        }, {
+            "Description": "Elk bugle #9",
+            "soundFile": "elk_bugle_9",
+            "timeLength": 3.47,
+            "uniqueID": 275
+        }, {
+            "Description": "Elk bugle #10",
+            "soundFile": "elk_bugle_10",
+            "timeLength": 2.39,
+            "uniqueID": 276
+        }, {
+            "Description": "Calf call",
+            "soundFile": "elk_calf_call",
+            "timeLength": 1.5,
+            "uniqueID": 277
+        }, {
+            "Description": "Cow call #1",
+            "soundFile": "elk_cow_call_1",
+            "timeLength": 1.68,
+            "uniqueID": 278
+        }, {
+            "Description": "Cow call #2",
+            "soundFile": "elk_cow_call_2",
+            "timeLength": 15.42,
+            "uniqueID": 279
+        }, {
+            "Description": "Cow call #3",
+            "soundFile": "elk_cow_call_3",
+            "timeLength": 5.02,
+            "uniqueID": 280
+        }, {
+            "Description": "Estrus call",
+            "soundFile": "elk_estrus_call",
+            "timeLength": 5.21,
+            "uniqueID": 281
+        }, {
+            "Description": "Matriarch cow call",
+            "soundFile": "elk_matriarch_cow_call",
+            "timeLength": 4.34,
+            "uniqueID": 282
+        }, {
+            "Description": "Young bugle",
+            "soundFile": "elk_young_bugle",
+            "timeLength": 3.32,
+            "uniqueID": 283
+        }, {
+            "Description": "Elk bugle \u0026 grunt",
+            "soundFile": "elk_bugle_grunt",
+            "timeLength": 3.92,
+            "uniqueID": 284
+        }, {
+            "Description": "Elk bugle grunt #2",
+            "soundFile": "elk_bugle_grunt_2",
+            "timeLength": 3.84,
+            "uniqueID": 285
+        }, {
+            "Description": "Adult elk bugle",
+            "soundFile": "elk_bugle_adult",
+            "timeLength": 3.43,
+            "uniqueID": 286
+        }, {
+            "Description": "Young elk bugle",
+            "soundFile": "elk_bugle_young",
+            "timeLength": 3.43,
+            "uniqueID": 287
+        }, {
+            "Description": "Elk bellow #1",
+            "soundFile": "elk_bellows",
+            "timeLength": 2.78,
+            "uniqueID": 288
+        }, {
+            "Description": "Elk bellow #2",
+            "soundFile": "elk_bellows_2",
+            "timeLength": 10.92,
+            "uniqueID": 289
+        }, {
+            "Description": "Bull elk",
+            "soundFile": "elk_bull",
+            "timeLength": 6.62,
+            "uniqueID": 290
+        }, {
+            "Description": "Bull elks sparring",
+            "soundFile": "elk_bulls_sparring",
+            "timeLength": 25.03,
+            "uniqueID": 291
+        }, {
+            "Description": "Adult cow elk",
+            "soundFile": "elk_cow_adult",
+            "timeLength": 1.28,
+            "uniqueID": 292
+        }, {
+            "Description": "Cow elk calf",
+            "soundFile": "elk_cow_calf",
+            "timeLength": 0.76,
+            "uniqueID": 293
+        }, {
+            "Description": "Cow elk talk",
+            "soundFile": "elk_cow_talk",
+            "timeLength": 3.06,
+            "uniqueID": 294
+        }, {
+            "Description": "Cow elk",
+            "soundFile": "elk_cow",
+            "timeLength": 2.38,
+            "uniqueID": 295
+        }]
+    }, {
+        "Description": "crys, kits, whines…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=foxes",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=foxes",
+        "animalName": "foxes",
+        "image": "fox",
+        "idRes": 2130837529,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Fox kit crying #1",
+            "soundFile": "fox_kit_crying",
+            "timeLength": 4.89,
+            "uniqueID": 296
+        }, {
+            "Description": "Fox kit crying #2",
+            "soundFile": "fox_kit_crying_2",
+            "timeLength": 5.0,
+            "uniqueID": 297
+        }, {
+            "Description": "Fox kit distress",
+            "soundFile": "fox_kit_distress",
+            "timeLength": 4.84,
+            "uniqueID": 298
+        }, {
+            "Description": "Foxes fighting",
+            "soundFile": "foxes_fighting",
+            "timeLength": 5.68,
+            "uniqueID": 299
+        }, {
+            "Description": "Grey fox distress",
+            "soundFile": "grey_fox_distress",
+            "timeLength": 24.82,
+            "uniqueID": 300
+        }, {
+            "Description": "Red fox barks",
+            "soundFile": "red_fox_barks",
+            "timeLength": 16.61,
+            "uniqueID": 301
+        }, {
+            "Description": "Red fox squall",
+            "soundFile": "red_fox_squall",
+            "timeLength": 3.09,
+            "uniqueID": 302
+        }, {
+            "Description": "Young fox distress",
+            "soundFile": "young_fox_distress",
+            "timeLength": 5.21,
+            "uniqueID": 303
+        }, {
+            "Description": "Fox distress call",
+            "soundFile": "fox_distress_call",
+            "timeLength": 6.12,
+            "uniqueID": 304
+        }, {
+            "Description": "Fox mating call",
+            "soundFile": "fox_mating_call",
+            "timeLength": 7.79,
+            "uniqueID": 305
+        }, {
+            "Description": "Fox barking #1",
+            "soundFile": "fox_bark",
+            "timeLength": 3.9,
+            "uniqueID": 306
+        }, {
+            "Description": "Fox barking #2",
+            "soundFile": "foxes_barking",
+            "timeLength": 9.18,
+            "uniqueID": 307
+        }, {
+            "Description": "Fox calling out",
+            "soundFile": "fox_calling_out",
+            "timeLength": 7.98,
+            "uniqueID": 308
+        }, {
+            "Description": "Fox howling",
+            "soundFile": "fox_howl",
+            "timeLength": 11.4,
+            "uniqueID": 309
+        }, {
+            "Description": "Fox calling mate",
+            "soundFile": "lone_fox_calling_mate",
+            "timeLength": 3.85,
+            "uniqueID": 310
+        }, {
+            "Description": "Fox kits playing",
+            "soundFile": "fox_kits_playing",
+            "timeLength": 9.12,
+            "uniqueID": 311
+        }, {
+            "Description": "Grey fox barking",
+            "soundFile": "grey_fox_barking",
+            "timeLength": 1.39,
+            "uniqueID": 312
+        }, {
+            "Description": "Red fox whines",
+            "soundFile": "red_fox_whines",
+            "timeLength": 2.56,
+            "uniqueID": 313
+        }, {
+            "Description": "Red Fox",
+            "soundFile": "red_fox",
+            "timeLength": 1.02,
+            "uniqueID": 314
+        }, {
+            "Description": "Grey fox pup",
+            "soundFile": "gray_fox_pup",
+            "timeLength": 97.67,
+            "uniqueID": 619
+        }, {
+            "Description": "Fox lost",
+            "soundFile": "fox_lost_matxxxx",
+            "timeLength": 42.24,
+            "uniqueID": 721
+        }, {
+            "Description": "Grey fox coon fight",
+            "soundFile": "gray_fox_coon_fight",
+            "timeLength": 7.5,
+            "uniqueID": 722
+        }, {
+            "Description": "Grey fox fight",
+            "soundFile": "gray_fox_fight",
+            "timeLength": 9.2,
+            "uniqueID": 723
+        }, {
+            "Description": "Red fox coon fight",
+            "soundFile": "red_fox_coon_fight",
+            "timeLength": 17.11,
+            "uniqueID": 724
+        }, {
+            "Description": "Red fox female barking",
+            "soundFile": "red_fox_female_barking",
+            "timeLength": 14.71,
+            "uniqueID": 725
+        }, {
+            "Description": "Red fox pup distress",
+            "soundFile": "red_fox_pup_distress",
+            "timeLength": 8.65,
+            "uniqueID": 726
+        }, {
+            "Description": "Red foxes fight",
+            "soundFile": "red_foxes_fight",
+            "timeLength": 15.39,
+            "uniqueID": 727
+        }]
+    }, {
+        "Description": "calls and honks…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=geese",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=geese",
+        "animalName": "geese",
+        "image": "goose",
+        "idRes": 2130837531,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Greylag goose",
+            "soundFile": "goose_greylag",
+            "timeLength": 12.83,
+            "uniqueID": 315
+        }, {
+            "Description": "Geese",
+            "soundFile": "geese",
+            "timeLength": 16.52,
+            "uniqueID": 316
+        }, {
+            "Description": "Flock of geese",
+            "soundFile": "geese_flock",
+            "timeLength": 13.36,
+            "uniqueID": 317
+        }, {
+            "Description": "Domestic goose",
+            "soundFile": "domestic_goose",
+            "timeLength": 99.85,
+            "uniqueID": 318
+        }, {
+            "Description": "Snow geese",
+            "soundFile": "snow_geese",
+            "timeLength": 120.51,
+            "uniqueID": 319
+        }, {
+            "Description": "Canadian geese #1",
+            "soundFile": "canadian_geese",
+            "timeLength": 3.78,
+            "uniqueID": 320
+        }, {
+            "Description": "Canadian geese #2",
+            "soundFile": "canadian_geese_2",
+            "timeLength": 26.33,
+            "uniqueID": 321
+        }, {
+            "Description": "Canadian geese feeding",
+            "soundFile": "canadian_geese_feeding",
+            "timeLength": 11.27,
+            "uniqueID": 322
+        }, {
+            "Description": "Canadian greeting #1",
+            "soundFile": "canadian_goose_greeting",
+            "timeLength": 9.02,
+            "uniqueID": 323
+        }, {
+            "Description": "Canadian greeting #2",
+            "soundFile": "canadian_goose_greeting_2",
+            "timeLength": 13.25,
+            "uniqueID": 324
+        }, {
+            "Description": "Canadian greeting #3",
+            "soundFile": "canadian_geese_intermediate_greeting",
+            "timeLength": 8.47,
+            "uniqueID": 325
+        }, {
+            "Description": "Canadian comeback #1",
+            "soundFile": "canadian_goose_comeback",
+            "timeLength": 16.1,
+            "uniqueID": 326
+        }, {
+            "Description": "Canadian comeback #2",
+            "soundFile": "canadian_goose_comeback_2",
+            "timeLength": 19.44,
+            "uniqueID": 327
+        }, {
+            "Description": "Canadian laydown call",
+            "soundFile": "canadian_goose_laydown_call",
+            "timeLength": 37.96,
+            "uniqueID": 328
+        }, {
+            "Description": "Canadian geese flock #1",
+            "soundFile": "canadian_goose_flock",
+            "timeLength": 11.34,
+            "uniqueID": 329
+        }, {
+            "Description": "Canadian geese flock #2",
+            "soundFile": "canadian_geese_flock",
+            "timeLength": 3.89,
+            "uniqueID": 330
+        }, {
+            "Description": "Canadian geese flock #3",
+            "soundFile": "canadian_geese_flock_2",
+            "timeLength": 15.99,
+            "uniqueID": 331
+        }, {
+            "Description": "Canadian geese flying",
+            "soundFile": "canadian_geese_flying",
+            "timeLength": 8.74,
+            "uniqueID": 332
+        }, {
+            "Description": "Flock landing",
+            "soundFile": "flock_landing",
+            "timeLength": 92.55,
+            "uniqueID": 621
+        }, {
+            "Description": "Goose comeback",
+            "soundFile": "goose_comeback",
+            "timeLength": 14.89,
+            "uniqueID": 622
+        }, {
+            "Description": "Goose double cluck",
+            "soundFile": "goose_double_cluck",
+            "timeLength": 13.98,
+            "uniqueID": 623
+        }, {
+            "Description": "Goose feed",
+            "soundFile": "goose_feed_wm",
+            "timeLength": 19.75,
+            "uniqueID": 624
+        }, {
+            "Description": "Goose greeting",
+            "soundFile": "goose_greeting",
+            "timeLength": 12.64,
+            "uniqueID": 625
+        }, {
+            "Description": "Snow and blues",
+            "soundFile": "snow_and_blues",
+            "timeLength": 7.81,
+            "uniqueID": 626
+        }, {
+            "Description": "Greylag goose excited hiss",
+            "soundFile": "greylag_goose_excited_hiss",
+            "timeLength": 98.82,
+            "uniqueID": 733
+        }, {
+            "Description": "Greylag goose feeding in water",
+            "soundFile": "greylag_goose_feeding_in_water",
+            "timeLength": 71.37,
+            "uniqueID": 362
+        }, {
+            "Description": "Greylag goose flight call",
+            "soundFile": "greylag_goose_flight_call",
+            "timeLength": 76.09,
+            "uniqueID": 369
+        }, {
+            "Description": "Greylag goose flight calls wing",
+            "soundFile": "greylag_goose_flight_calls_wing",
+            "timeLength": 37.64,
+            "uniqueID": 370
+        }, {
+            "Description": "Greylag goose flock feed",
+            "soundFile": "greylag_goose_flock_feed",
+            "timeLength": 85.58,
+            "uniqueID": 574
+        }, {
+            "Description": "Greylag goose flyby",
+            "soundFile": "greylag_goose_flyby",
+            "timeLength": 40.05,
+            "uniqueID": 575
+        }, {
+            "Description": "Greylag goose landing",
+            "soundFile": "greylag_goose_landing",
+            "timeLength": 37.85,
+            "uniqueID": 588
+        }, {
+            "Description": "Greylag goose small flock",
+            "soundFile": "greylag_goose_small_flock",
+            "timeLength": 58.33,
+            "uniqueID": 589
+        }, {
+            "Description": "Single greylag goose",
+            "soundFile": "single_greylag_goose",
+            "timeLength": 19.33,
+            "uniqueID": 590
+        }]
+    }, {
+        "Description": "bleats and distress…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=goats",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=goats",
+        "animalName": "goats",
+        "image": "goat",
+        "idRes": 2130837530,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Kid goat distress",
+            "soundFile": "kid_goat_distress",
+            "timeLength": 4.76,
+            "uniqueID": 333
+        }, {
+            "Description": "Baby goat bleat",
+            "soundFile": "baby_goat_bleat",
+            "timeLength": 3.85,
+            "uniqueID": 334
+        }, {
+            "Description": "Baby goat crying #1",
+            "soundFile": "baby_goat_crying",
+            "timeLength": 6.17,
+            "uniqueID": 335
+        }, {
+            "Description": "Baby goat crying #2",
+            "soundFile": "baby_goat_crying_2",
+            "timeLength": 3.95,
+            "uniqueID": 336
+        }, {
+            "Description": "Nervous adult goat",
+            "soundFile": "nervous_adult_goat",
+            "timeLength": 37.62,
+            "uniqueID": 337
+        }]
+    }, {
+        "Description": "various sounds and calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=hawks",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=hawks",
+        "animalName": "hawks \u0026 eagles",
+        "image": "hawkseagles",
+        "idRes": 2130837544,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Eagle #1",
+            "soundFile": "eagle",
+            "timeLength": 1.96,
+            "uniqueID": 338
+        }, {
+            "Description": "Eagle #2",
+            "soundFile": "eagle_2",
+            "timeLength": 7.03,
+            "uniqueID": 339
+        }, {
+            "Description": "Hawk #1",
+            "soundFile": "hawk",
+            "timeLength": 2.62,
+            "uniqueID": 340
+        }, {
+            "Description": "Hawk #2",
+            "soundFile": "hawk_2",
+            "timeLength": 32.08,
+            "uniqueID": 341
+        }, {
+            "Description": "Common black hawk",
+            "soundFile": "common_black_hawk",
+            "timeLength": 9.88,
+            "uniqueID": 342
+        }, {
+            "Description": "Black chested hawk",
+            "soundFile": "black_chested_hawk",
+            "timeLength": 11.08,
+            "uniqueID": 343
+        }, {
+            "Description": "Coopers hawk",
+            "soundFile": "coopers_hawk",
+            "timeLength": 1.63,
+            "uniqueID": 344
+        }, {
+            "Description": "Ferruginous hawk",
+            "soundFile": "ferruginous_hawk",
+            "timeLength": 6.14,
+            "uniqueID": 345
+        }, {
+            "Description": "Red tailed hawk",
+            "soundFile": "red_tailed_hawk",
+            "timeLength": 1.0,
+            "uniqueID": 346
+        }, {
+            "Description": "Sharp shinned hawk",
+            "soundFile": "sharp_shinned_hawk",
+            "timeLength": 8.5,
+            "uniqueID": 347
+        }, {
+            "Description": "Sparrowhawk",
+            "soundFile": "sparrowhawk",
+            "timeLength": 1.11,
+            "uniqueID": 348
+        }, {
+            "Description": "Swainson\u0027s hawk #1",
+            "soundFile": "swainsons_hawk",
+            "timeLength": 6.98,
+            "uniqueID": 349
+        }, {
+            "Description": "Swainson\u0027s hawk #2",
+            "soundFile": "swainsons_hawk_2",
+            "timeLength": 21.26,
+            "uniqueID": 350
+        }, {
+            "Description": "Harrier marsh hawk",
+            "soundFile": "harrier_marsh_hawk",
+            "timeLength": 4.27,
+            "uniqueID": 351
+        }]
+    }, {
+        "Description": "hyenas, lions, etc…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=jackal",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=jackal",
+        "animalName": "jackal",
+        "image": "jackal",
+        "idRes": 2130837591,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Jackal Cry",
+            "soundFile": "jackal_cry",
+            "timeLength": 4.81,
+            "rugerIcon": false,
+            "uniqueID": 581
+        }, {
+            "Description": "Jackal Cry #2",
+            "soundFile": "jackal_cry_two",
+            "timeLength": 4.81,
+            "rugerIcon": false,
+            "uniqueID": 627
+        }, {
+            "Description": "Jackal Call #1",
+            "soundFile": "jackal_call_1",
+            "timeLength": 9.20,
+            "rugerIcon": false,
+            "uniqueID": 628
+        }, {
+            "Description": "Jackal Call #2",
+            "soundFile": "jackal_call_2",
+            "timeLength": 8.62,
+            "rugerIcon": false,
+            "uniqueID": 629
+        }, {
+            "Description": "Jackal Call #3",
+            "soundFile": "jackal_call_3",
+            "timeLength": 8.62,
+            "rugerIcon": false,
+            "uniqueID": 630
+        }, {
+            "Description": "Jackal Answer",
+            "soundFile": "jackal_answer",
+            "timeLength": 8.62,
+            "rugerIcon": false,
+            "uniqueID": 635
+        }, {
+            "Description": "Jackal Call #4",
+            "soundFile": "jackal_call",
+            "timeLength": 82.57,
+            "rugerIcon": false,
+            "uniqueID": 636
+        }, {
+            "Description": "Jackal Call Elsneus",
+            "soundFile": "jackal_call_elsneus",
+            "timeLength": 25.52,
+            "rugerIcon": false,
+            "uniqueID": 637
+        }, {
+            "Description": "Jackal Challenge",
+            "soundFile": "jackal_challenge",
+            "timeLength": 35.78,
+            "rugerIcon": false,
+            "uniqueID": 638
+        }, {
+            "Description": "Jackal Distress",
+            "soundFile": "jackal_distress",
+            "timeLength": 50.38,
+            "rugerIcon": false,
+            "uniqueID": 639
+        }, {
+            "Description": "Jackal Distress #2",
+            "soundFile": "jackal_distress_2",
+            "timeLength": 28.9,
+            "rugerIcon": false,
+            "uniqueID": 642
+        }, {
+            "Description": "Jackal in fight",
+            "soundFile": "jackal_in_fight",
+            "timeLength": 45.27,
+            "rugerIcon": false,
+            "uniqueID": 643
+        }, {
+            "Description": "Jackal lonely",
+            "soundFile": "jackal_lonely",
+            "timeLength": 61.92,
+            "rugerIcon": false,
+            "uniqueID": 646
+        }, {
+            "Description": "Hyena",
+            "soundFile": "hyena_1",
+            "timeLength": 8.86,
+            "rugerIcon": false,
+            "uniqueID": 631
+        }, {
+            "Description": "Lion",
+            "soundFile": "lion",
+            "timeLength": 9.64,
+            "rugerIcon": false,
+            "uniqueID": 632
+        }]
+    },
+
+    {
+        "Description": "distress, squeaks, screams…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=mice",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=mice",
+        "animalName": "mice \u0026 rats",
+        "image": "mice",
+        "idRes": 2130837554,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Mouse distress",
+            "soundFile": "mouse_distress",
+            "timeLength": 2.78,
+            "uniqueID": 352
+        }, {
+            "Description": "Mouse scream",
+            "soundFile": "mouse_scream",
+            "timeLength": 0.97,
+            "uniqueID": 353
+        }, {
+            "Description": "Rat dying",
+            "soundFile": "rat_dying",
+            "timeLength": 1.31,
+            "uniqueID": 354
+        }, {
+            "Description": "Rodent distress",
+            "soundFile": "rodent_distress",
+            "timeLength": 9.38,
+            "uniqueID": 355
+        }, {
+            "Description": "Field mouse #1",
+            "soundFile": "field_mouse",
+            "timeLength": 2.12,
+            "uniqueID": 356
+        }, {
+            "Description": "Field mouse #2",
+            "soundFile": "field_mouse_2",
+            "timeLength": 33.42,
+            "uniqueID": 357
+        }, {
+            "Description": "Group of mice",
+            "soundFile": "group_of_mice",
+            "timeLength": 6.38,
+            "uniqueID": 358
+        }, {
+            "Description": "Pika mouse",
+            "soundFile": "pika_mouse",
+            "timeLength": 3.6,
+            "uniqueID": 359
+        }, {
+            "Description": "Rat sound",
+            "soundFile": "rat_hit",
+            "timeLength": 0.63,
+            "uniqueID": 360
+        }, {
+            "Description": "Rat squeaking",
+            "soundFile": "rat_squeaking",
+            "timeLength": 1.42,
+            "uniqueID": 361
+        }, {
+            "Description": "Spring hare",
+            "soundFile": "spring_hare",
+            "timeLength": 90.46,
+            "uniqueID": 592
+        }]
+    }, {
+        "Description": "calls, grunts…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=moose",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=moose",
+        "animalName": "moose",
+        "image": "moose",
+        "idRes": 2130837555,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Bull raking bush",
+            "soundFile": "moose_bull_raking_bush",
+            "timeLength": 14.34,
+            "uniqueID": 363
+        }, {
+            "Description": "Bull raking tree",
+            "soundFile": "moose_bull_raking_tree",
+            "timeLength": 17.24,
+            "uniqueID": 364
+        }, {
+            "Description": "Calf distress #1",
+            "soundFile": "moose_calf_distress_1",
+            "timeLength": 37.12,
+            "uniqueID": 365
+        }, {
+            "Description": "Calf distress #2",
+            "soundFile": "moose_calf_distress_2",
+            "timeLength": 38.3,
+            "uniqueID": 366
+        }, {
+            "Description": "Cow grunt",
+            "soundFile": "moose_cow_grunt",
+            "timeLength": 4.16,
+            "uniqueID": 367
+        }, {
+            "Description": "Cow in distress",
+            "soundFile": "moose_cow_in_distress",
+            "timeLength": 33.52,
+            "uniqueID": 368
+        }, {
+            "Description": "Cow locator",
+            "soundFile": "moose_cow_locator",
+            "timeLength": 15.67,
+            "uniqueID": 371
+        }, {
+            "Description": "Cow mating #1",
+            "soundFile": "moose_cow_mating_1",
+            "timeLength": 4.62,
+            "uniqueID": 372
+        }, {
+            "Description": "Long moan #1",
+            "soundFile": "moose_long_moan_1",
+            "timeLength": 19.1,
+            "uniqueID": 373
+        }, {
+            "Description": "Long moan #2",
+            "soundFile": "moose_long_moan_2",
+            "timeLength": 17.69,
+            "uniqueID": 374
+        }, {
+            "Description": "Long moan #3",
+            "soundFile": "moose_long_moan_3",
+            "timeLength": 3.74,
+            "uniqueID": 375
+        }, {
+            "Description": "Old bull challenge",
+            "soundFile": "moose_old_bull_challenge",
+            "timeLength": 6.37,
+            "uniqueID": 376
+        }, {
+            "Description": "Old bull territorial",
+            "soundFile": "moose_old_bull_territorial",
+            "timeLength": 4.26,
+            "uniqueID": 377
+        }, {
+            "Description": "Old cow mating",
+            "soundFile": "moose_old_cow_mating",
+            "timeLength": 11.39,
+            "uniqueID": 378
+        }, {
+            "Description": "Young bull territorial",
+            "soundFile": "moose_young_bull_territorial",
+            "timeLength": 5.67,
+            "uniqueID": 379
+        }, {
+            "Description": "Young cow mating",
+            "soundFile": "moose_young_cow_mating",
+            "timeLength": 2.3,
+            "uniqueID": 380
+        }, {
+            "Description": "Moose female mating #1",
+            "soundFile": "female_mating_call",
+            "timeLength": 9.61,
+            "uniqueID": 381
+        }, {
+            "Description": "Moose female mating #2",
+            "soundFile": "female_mating_call_2",
+            "timeLength": 13.09,
+            "uniqueID": 382
+        }, {
+            "Description": "Moose #1",
+            "soundFile": "moose_1",
+            "timeLength": 4.86,
+            "uniqueID": 383
+        }, {
+            "Description": "Moose #2",
+            "soundFile": "moose_2",
+            "timeLength": 2.84,
+            "uniqueID": 384
+        }, {
+            "Description": "Moose #3",
+            "soundFile": "moose_3",
+            "timeLength": 6.85,
+            "uniqueID": 385
+        }, {
+            "Description": "Moose #4",
+            "soundFile": "moose_4",
+            "timeLength": 7.74,
+            "uniqueID": 386
+        }, {
+            "Description": "Moose #5",
+            "soundFile": "moose_5",
+            "timeLength": 10.82,
+            "uniqueID": 387
+        }, {
+            "Description": "Calf chirp",
+            "soundFile": "calf_chirp",
+            "timeLength": 10.95,
+            "uniqueID": 640
+        }, {
+            "Description": "Cow in heat",
+            "soundFile": "cow_in_heat",
+            "timeLength": 21.34,
+            "uniqueID": 641
+        }, {
+            "Description": "Estrus cow",
+            "soundFile": "estrus_cow",
+            "timeLength": 8.72,
+            "uniqueID": 644
+        }, {
+            "Description": "Female whining",
+            "soundFile": "female_whining",
+            "timeLength": 19.12,
+            "uniqueID": 645
+        }, {
+            "Description": "Mating moose",
+            "soundFile": "mating_moose",
+            "timeLength": 32.60,
+            "uniqueID": 647
+        }, {
+            "Description": "Mature bull gluck",
+            "soundFile": "mature_bull_gluck",
+            "timeLength": 12.49,
+            "uniqueID": 648
+        }, {
+            "Description": "Mature bull moose",
+            "soundFile": "mature_bull_moose",
+            "timeLength": 33.02,
+            "uniqueID": 649
+        }, {
+            "Description": "Raking bushes",
+            "soundFile": "raking_bushes",
+            "timeLength": 8.86,
+            "uniqueID": 651
+        }, {
+            "Description": "Social grunt",
+            "soundFile": "social_grunt",
+            "timeLength": 0.50,
+            "uniqueID": 652
+        }, {
+            "Description": "Walking in water",
+            "soundFile": "walking_in_water",
+            "timeLength": 8.52,
+            "uniqueID": 654
+        }, {
+            "Description": "Young bull",
+            "soundFile": "young_bull",
+            "timeLength": 0.60,
+            "uniqueID": 655
+        }]
+    }, {
+        "Description": "calls, hoots, screeches…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=owls",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=owls",
+        "animalName": "owls",
+        "image": "owl",
+        "idRes": 2130837558,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Hoot #1",
+            "soundFile": "owl_hoot_1",
+            "timeLength": 0.5,
+            "uniqueID": 388
+        }, {
+            "Description": "Hoot #2",
+            "soundFile": "owl_hoot_2",
+            "timeLength": 0.78,
+            "uniqueID": 389
+        }, {
+            "Description": "Hoot #3",
+            "soundFile": "owl_hoot_3",
+            "timeLength": 1.04,
+            "uniqueID": 390
+        }, {
+            "Description": "Hoot #4",
+            "soundFile": "owl_hoot_4",
+            "timeLength": 2.28,
+            "uniqueID": 391
+        }, {
+            "Description": "Owl screech",
+            "soundFile": "owl_screech",
+            "timeLength": 2.3,
+            "uniqueID": 392
+        }, {
+            "Description": "Owl chitters",
+            "soundFile": "owl_chitters",
+            "timeLength": 6.77,
+            "uniqueID": 393
+        }, {
+            "Description": "GHO chitters #1",
+            "soundFile": "great_horned_chitters",
+            "timeLength": 1.85,
+            "uniqueID": 394
+        }, {
+            "Description": "GHO chitters #2",
+            "soundFile": "great_horned_chitters_2",
+            "timeLength": 5.15,
+            "uniqueID": 395
+        }, {
+            "Description": "GHO excited",
+            "soundFile": "great_horned_excited",
+            "timeLength": 2.67,
+            "uniqueID": 396
+        }, {
+            "Description": "GHO hisses",
+            "soundFile": "great_horned_hisses",
+            "timeLength": 4.52,
+            "uniqueID": 397
+        }, {
+            "Description": "GHO hoot #1",
+            "soundFile": "great_horned_hoot",
+            "timeLength": 2.35,
+            "uniqueID": 398
+        }, {
+            "Description": "GHO hoot #2",
+            "soundFile": "great_horned_hoot_2",
+            "timeLength": 2.19,
+            "uniqueID": 399
+        }, {
+            "Description": "GHO hoot #3",
+            "soundFile": "great_horned_hoot_3",
+            "timeLength": 9.86,
+            "uniqueID": 400
+        }, {
+            "Description": "GHO typical call",
+            "soundFile": "great_horned_typical_call",
+            "timeLength": 7.78,
+            "uniqueID": 401
+        }, {
+            "Description": "Barn owl",
+            "soundFile": "barn_owl",
+            "timeLength": 5.98,
+            "uniqueID": 402
+        }, {
+            "Description": "Barn owl screech",
+            "soundFile": "barn_owl_screech",
+            "timeLength": 5.12,
+            "uniqueID": 403
+        }, {
+            "Description": "Barred owl",
+            "soundFile": "barred_owl",
+            "timeLength": 7.82,
+            "uniqueID": 404
+        }, {
+            "Description": "Long eared owl #1",
+            "soundFile": "longeared_owl",
+            "timeLength": 0.65,
+            "uniqueID": 405
+        }, {
+            "Description": "Long eared owl #2",
+            "soundFile": "longeared_owl_2",
+            "timeLength": 3.13,
+            "uniqueID": 406
+        }, {
+            "Description": "Owl calling out",
+            "soundFile": "screen_owl",
+            "timeLength": 9.52,
+            "uniqueID": 407
+        }, {
+            "Description": "Tawny owl #1",
+            "soundFile": "tawny_owl",
+            "timeLength": 0.6,
+            "uniqueID": 408
+        }, {
+            "Description": "Tawny owl #2",
+            "soundFile": "tawny_owl_2",
+            "timeLength": 2.43,
+            "uniqueID": 409
+        }]
+    }, {
+        "Description": "various calls and sounds…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=pheasant",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=pheasant",
+        "animalName": "pheasant",
+        "image": "pheasant",
+        "idRes": 2130837559,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Pheasant flush",
+            "soundFile": "pheasant_flush",
+            "timeLength": 2.86,
+            "uniqueID": 410
+        }, {
+            "Description": "Pheasant #1",
+            "soundFile": "pheasant",
+            "timeLength": 3.14,
+            "uniqueID": 411
+        }, {
+            "Description": "Pheasant #2",
+            "soundFile": "pheasant_call",
+            "timeLength": 2.36,
+            "uniqueID": 412
+        }, {
+            "Description": "Common pheasant",
+            "soundFile": "common_pheasant",
+            "timeLength": 1.44,
+            "uniqueID": 413
+        }, {
+            "Description": "Ring neck #1",
+            "soundFile": "ring_neck_pheasant",
+            "timeLength": 1.08,
+            "uniqueID": 414
+        }, {
+            "Description": "Ring neck #2",
+            "soundFile": "ring_neck_pheasant_2",
+            "timeLength": 3.56,
+            "uniqueID": 415
+        }, {
+            "Description": "Swinhoe pheasant",
+            "soundFile": "swinhoe_pheasant",
+            "timeLength": 2.8,
+            "uniqueID": 416
+        }]
+    }, {
+        "Description": "calls and distress…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=prairiedogs",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=prairiedogs",
+        "animalName": "prairie dogs",
+        "image": "prairiedog",
+        "idRes": 2130837563,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "PD Hawk warning",
+            "soundFile": "hawk_warning",
+            "timeLength": 4.32,
+            "uniqueID": 417
+        }, {
+            "Description": "Domestic dog warning",
+            "soundFile": "domestic_dog_warning",
+            "timeLength": 4.47,
+            "uniqueID": 418
+        }, {
+            "Description": "Prairie Dog Call #1",
+            "soundFile": "prairie_dog_call",
+            "timeLength": 2.78,
+            "uniqueID": 419
+        }, {
+            "Description": "Prairie Dog Call #2",
+            "soundFile": "prairie_dog_call_2",
+            "timeLength": 29.03,
+            "uniqueID": 420
+        }, {
+            "Description": "Prairie Dog Chirp #1",
+            "soundFile": "prairie_dog_chirp",
+            "timeLength": 1.02,
+            "uniqueID": 421
+        }, {
+            "Description": "Prairie Dog Chirp #2",
+            "soundFile": "prairie_dog_chirp_2",
+            "timeLength": 1.52,
+            "uniqueID": 422
+        }, {
+            "Description": "Prairie Dog Chirp #3",
+            "soundFile": "prairie_dog_chirp_3",
+            "timeLength": 6.24,
+            "uniqueID": 423
+        }, {
+            "Description": "Prairie Dog Chirp #4",
+            "soundFile": "prairie_dog_chirp_4",
+            "timeLength": 8.82,
+            "uniqueID": 424
+        }]
+    }, {
+        "Description": "chirps and calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=quail",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=quail",
+        "animalName": "quail",
+        "image": "quail",
+        "idRes": 2130837564,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Quail Call #1",
+            "soundFile": "quail_call",
+            "timeLength": 0.84,
+            "uniqueID": 425
+        }, {
+            "Description": "Quail Call #2",
+            "soundFile": "quail_call_2",
+            "timeLength": 4.86,
+            "uniqueID": 426
+        }, {
+            "Description": "Quail Call #3",
+            "soundFile": "quail_call_3",
+            "timeLength": 2.33,
+            "uniqueID": 427
+        }, {
+            "Description": "Quail Call #4",
+            "soundFile": "quail_call_4",
+            "timeLength": 5.55,
+            "uniqueID": 428
+        }, {
+            "Description": "Quail chatter",
+            "soundFile": "quail_chatter",
+            "timeLength": 4.7,
+            "uniqueID": 429
+        }, {
+            "Description": "Quail chirp",
+            "soundFile": "quail_chirp",
+            "timeLength": 2.59,
+            "uniqueID": 430
+        }, {
+            "Description": "Common quail",
+            "soundFile": "common_quail",
+            "timeLength": 3.09,
+            "uniqueID": 431
+        }, {
+            "Description": "Bob White quail #1",
+            "soundFile": "bob_white_quail",
+            "timeLength": 1.1,
+            "uniqueID": 432
+        }, {
+            "Description": "Bob White quail #2",
+            "soundFile": "bob_white_quail_2",
+            "timeLength": 4.18,
+            "uniqueID": 433
+        }, {
+            "Description": "Gambels quail",
+            "soundFile": "gambels_quail",
+            "timeLength": 3.82,
+            "uniqueID": 434
+        }, {
+            "Description": "California quail",
+            "soundFile": "california_quail",
+            "timeLength": 3.8,
+            "uniqueID": 435
+        }, {
+            "Description": "Scaled quail",
+            "soundFile": "scaled_quail",
+            "timeLength": 19.36,
+            "uniqueID": 436
+        }, {
+            "Description": "Wood quail",
+            "soundFile": "wood_quail",
+            "timeLength": 5.26,
+            "uniqueID": 437
+        }]
+    }, {
+        "Description": "distress and calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=rabbit",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=rabbit",
+        "animalName": "rabbit \u0026 hare",
+        "image": "rabbits",
+        "idRes": 2130837565,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Snowshoe distress #1",
+            "soundFile": "snowshoe_distress_1",
+            "timeLength": 41.88,
+            "uniqueID": 438
+        }, {
+            "Description": "Snowshoe distress #2",
+            "soundFile": "snowshoe_distress_2",
+            "timeLength": 40.52,
+            "uniqueID": 439
+        }, {
+            "Description": "Snowshoe distress #3",
+            "soundFile": "snowshoe_distress_3",
+            "timeLength": 44.91,
+            "uniqueID": 440
+        }, {
+            "Description": "Snowshoe purring",
+            "soundFile": "snowshoe_purring",
+            "timeLength": 8.81,
+            "uniqueID": 441
+        }, {
+            "Description": "Cottontail call",
+            "soundFile": "cottontail_call",
+            "timeLength": 6.96,
+            "uniqueID": 442
+        }, {
+            "Description": "Young cottontail distress",
+            "soundFile": "young_cottontail_distress",
+            "timeLength": 15.11,
+            "uniqueID": 443
+        }, {
+            "Description": "Cottontail distress #1",
+            "soundFile": "cottontail_distress",
+            "timeLength": 59.44,
+            "uniqueID": 444
+        }, {
+            "Description": "Cottontail distress #2",
+            "soundFile": "cottontail_distress_2",
+            "timeLength": 33.0,
+            "uniqueID": 445
+        }, {
+            "Description": "Cottontail distress #3",
+            "soundFile": "cottontail_distress_3",
+            "timeLength": 68.81,
+            "uniqueID": 446
+        }, {
+            "Description": "Cottontail squalls",
+            "soundFile": "cottontail_squalls",
+            "timeLength": 12.1,
+            "uniqueID": 447
+        }, {
+            "Description": "Jackrabbit distress #1",
+            "soundFile": "jackrabbit_distress",
+            "timeLength": 1.44,
+            "uniqueID": 448
+        }, {
+            "Description": "Jackrabbit distress #2",
+            "soundFile": "jackrabbit_distress_2",
+            "timeLength": 3.87,
+            "uniqueID": 449
+        }, {
+            "Description": "Jackrabbit distress #3",
+            "soundFile": "jackrabbit_distress_3",
+            "timeLength": 4.32,
+            "uniqueID": 450
+        }, {
+            "Description": "Jackrabbit distress #4",
+            "soundFile": "jackrabbit_distress_4",
+            "timeLength": 15.02,
+            "uniqueID": 451
+        }, {
+            "Description": "Jackrabbit distress #5",
+            "soundFile": "jackrabbit_distress_5",
+            "timeLength": 59.36,
+            "uniqueID": 452
+        }, {
+            "Description": "Jackrabbit distress #6",
+            "soundFile": "jackrabbit_distress_6",
+            "timeLength": 74.74,
+            "uniqueID": 453
+        }, {
+            "Description": "Cape hare distress",
+            "soundFile": "cape_hare_distress",
+            "timeLength": 52.46,
+            "uniqueID": 454
+        }, {
+            "Description": "Rabbit chirps",
+            "soundFile": "rabbit_chirps",
+            "timeLength": 3.68,
+            "uniqueID": 455
+        }, {
+            "Description": "Rabbit distress #1",
+            "soundFile": "rabbit_distress",
+            "timeLength": 4.36,
+            "uniqueID": 456
+        }, {
+            "Description": "Rabbit distress #2",
+            "soundFile": "rabbit_distress_2",
+            "timeLength": 60.3,
+            "uniqueID": 457
+        }, {
+            "Description": "Rabbit purring",
+            "soundFile": "rabbit_purring",
+            "timeLength": 11.99,
+            "uniqueID": 458
+        }, {
+            "Description": "Utah jackrabbit",
+            "soundFile": "utah_jackrabbit",
+            "timeLength": 58.34,
+            "uniqueID": 459
+        }, {
+            "Description": "Cape Hare Vlakhaas #1",
+            "soundFile": "vlakhaas_1",
+            "timeLength": 90.17,
+            "uniqueID": 620
+        }, {
+            "Description": "Cape Hare Vlakhaas #2",
+            "soundFile": "vlakhaas_2",
+            "timeLength": 91.01,
+            "uniqueID": 633
+        }, {
+            "Description": "Cape Hare Vlakhaas #3",
+            "soundFile": "vlakhaas_3",
+            "timeLength": 61.31,
+            "uniqueID": 634
+        }]
+    }, {
+        "Description": "nutria, possum, beaver…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=raccoons",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=raccoons",
+        "animalName": "raccoons, etc.",
+        "image": "raccoon",
+        "idRes": 2130837566,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Raccoon kit #1",
+            "soundFile": "baby_raccoons",
+            "timeLength": 2.74,
+            "uniqueID": 460
+        }, {
+            "Description": "Raccoon kit #2",
+            "soundFile": "raccoon_kit",
+            "timeLength": 13.66,
+            "uniqueID": 461
+        }, {
+            "Description": "Young kit crying",
+            "soundFile": "young_raccoon_cry",
+            "timeLength": 7.9,
+            "uniqueID": 462
+        }, {
+            "Description": "Raccoon distress",
+            "soundFile": "raccoon_distress",
+            "timeLength": 5.98,
+            "uniqueID": 463
+        }, {
+            "Description": "Raccoon chattering",
+            "soundFile": "raccoon_chattering",
+            "timeLength": 8.16,
+            "uniqueID": 464
+        }, {
+            "Description": "Raccoon chirping",
+            "soundFile": "raccoon_chirp",
+            "timeLength": 1.38,
+            "uniqueID": 465
+        }, {
+            "Description": "Raccoon squalls #1",
+            "soundFile": "raccoon_squall_2",
+            "timeLength": 3.77,
+            "uniqueID": 466
+        }, {
+            "Description": "Raccoon squalls #2",
+            "soundFile": "raccoon_squall_3",
+            "timeLength": 27.8,
+            "uniqueID": 467
+        }, {
+            "Description": "Raccoon squalls #3",
+            "soundFile": "raccoon_squall_4",
+            "timeLength": 27.57,
+            "uniqueID": 468
+        }, {
+            "Description": "Aust baby possum",
+            "soundFile": "aust_baby_possum",
+            "timeLength": 1.52,
+            "uniqueID": 734
+        }, {
+            "Description": "Aust possum",
+            "soundFile": "aust_possum",
+            "timeLength": 4.73,
+            "uniqueID": 735
+        }, {
+            "Description": "Beaver",
+            "soundFile": "beaver",
+            "timeLength": 60.71,
+            "uniqueID": 736
+        }, {
+            "Description": "Raccoon feeding",
+            "soundFile": "coon_feeding",
+            "timeLength": 19.91,
+            "uniqueID": 737
+        }, {
+            "Description": "Raccoon fight",
+            "soundFile": "coon_fight_ufc",
+            "timeLength": 25.34,
+            "uniqueID": 738
+        }, {
+            "Description": "Raccoon mad",
+            "soundFile": "coon_mad",
+            "timeLength": 6.43,
+            "uniqueID": 739
+        }, {
+            "Description": "Raccoon puppy",
+            "soundFile": "coon_puppy",
+            "timeLength": 17.32,
+            "uniqueID": 740
+        }, {
+            "Description": "Guineas and dying chicken",
+            "soundFile": "guineas_and_dieing_chicken",
+            "timeLength": 10.79,
+            "uniqueID": 741
+        }, {
+            "Description": "Muskrat babies",
+            "soundFile": "muskrat_babys",
+            "timeLength": 6.58,
+            "uniqueID": 742
+        }, {
+            "Description": "Nutria mating",
+            "soundFile": "nutria_mateing",
+            "timeLength": 3.0,
+            "uniqueID": 743
+        }, {
+            "Description": "Prairie dog death cry",
+            "soundFile": "prairie_dog_death_cry",
+            "timeLength": 4.88,
+            "uniqueID": 744
+        }, {
+            "Description": "Prairie dog death cry - hawk",
+            "soundFile": "prairie_dog_hawk_death_cry",
+            "timeLength": 58.57,
+            "uniqueID": 745
+        }, {
+            "Description": "Rigsby wombat",
+            "soundFile": "rigsby_wombat",
+            "timeLength": 3.42,
+            "uniqueID": 746
+        }]
+    }, {
+        "Description": "bleats and baa\u0027s…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=sheep",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=sheep",
+        "animalName": "sheep \u0026 lamb",
+        "image": "sheep",
+        "idRes": 2130837576,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Group of lambs",
+            "soundFile": "group_of_lambs",
+            "timeLength": 6.32,
+            "uniqueID": 469
+        }, {
+            "Description": "Lamb bleats",
+            "soundFile": "lamb_bleats_2",
+            "timeLength": 11.42,
+            "uniqueID": 470
+        }, {
+            "Description": "Sheep baa #1",
+            "soundFile": "sheep_baa",
+            "timeLength": 0.86,
+            "uniqueID": 471
+        }, {
+            "Description": "Sheep baa #2",
+            "soundFile": "sheep_baa_2",
+            "timeLength": 1.2,
+            "uniqueID": 472
+        }, {
+            "Description": "Sheep baa #3",
+            "soundFile": "sheep_baa_3",
+            "timeLength": 0.84,
+            "uniqueID": 473
+        }, {
+            "Description": "Sheep baa #4",
+            "soundFile": "sheep_baa_4",
+            "timeLength": 1.33,
+            "uniqueID": 474
+        }, {
+            "Description": "Sheep baa #5",
+            "soundFile": "sheep_baa_5",
+            "timeLength": 3.22,
+            "uniqueID": 475
+        }, {
+            "Description": "Sheep baa #6",
+            "soundFile": "sheep_baa_6",
+            "timeLength": 48.33,
+            "uniqueID": 476
+        }]
+    }, {
+        "Description": "chirps and calls…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=snipebirds",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=snipebirds",
+        "animalName": "snipe birds",
+        "image": "snipebird",
+        "idRes": 2130837577,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Common snipe song",
+            "soundFile": "common_snipe_song",
+            "timeLength": 3.01,
+            "uniqueID": 477
+        }, {
+            "Description": "Common snipe",
+            "soundFile": "common_snipe",
+            "timeLength": 2.09,
+            "uniqueID": 478
+        }, {
+            "Description": "Japenese snipe",
+            "soundFile": "japanese_snipe",
+            "timeLength": 4.18,
+            "uniqueID": 479
+        }, {
+            "Description": "Latham\u0027s snipe",
+            "soundFile": "lathams_snipe",
+            "timeLength": 0.89,
+            "uniqueID": 480
+        }, {
+            "Description": "Seed snipe",
+            "soundFile": "seed_snipe",
+            "timeLength": 5.98,
+            "uniqueID": 481
+        }, {
+            "Description": "Snipe call",
+            "soundFile": "snipe_call",
+            "timeLength": 9.57,
+            "uniqueID": 482
+        }, {
+            "Description": "Snipe drums",
+            "soundFile": "snipe_drums",
+            "timeLength": 1.88,
+            "uniqueID": 483
+        }, {
+            "Description": "Snipe vocalization",
+            "soundFile": "snipe_vocalization",
+            "timeLength": 1.36,
+            "uniqueID": 484
+        }, {
+            "Description": "Wilson\u0027s snipe",
+            "soundFile": "wilsons_snipe",
+            "timeLength": 15.62,
+            "uniqueID": 485
+        }]
+    }, {
+        "Description": "barks, distress, chattering…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=squirrels",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=squirrels",
+        "animalName": "squirrels",
+        "image": "squirrels",
+        "idRes": 2130837582,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Squirrel distress",
+            "soundFile": "squirrel_distress",
+            "timeLength": 7.08,
+            "uniqueID": 486
+        }, {
+            "Description": "Upset squirrel",
+            "soundFile": "upset_squirrel",
+            "timeLength": 2.91,
+            "uniqueID": 487
+        }, {
+            "Description": "Squirrel chatter #1",
+            "soundFile": "squirrel_chatter",
+            "timeLength": 1.97,
+            "uniqueID": 488
+        }, {
+            "Description": "Squirrel chatter #2",
+            "soundFile": "squirrel_chatter_2",
+            "timeLength": 2.96,
+            "uniqueID": 489
+        }, {
+            "Description": "Squirrel chatter #3",
+            "soundFile": "squirrel_chatter_3",
+            "timeLength": 7.14,
+            "uniqueID": 490
+        }, {
+            "Description": "Squirrel chatter #4",
+            "soundFile": "squirrel_chatter_4",
+            "timeLength": 58.96,
+            "uniqueID": 491
+        }, {
+            "Description": "Gray squirrel #1",
+            "soundFile": "gray_squirrel",
+            "timeLength": 1.91,
+            "uniqueID": 492
+        }, {
+            "Description": "Gray squirrel #2",
+            "soundFile": "gray_squirrel_2",
+            "timeLength": 3.03,
+            "uniqueID": 493
+        }, {
+            "Description": "Eastern gray squirrel",
+            "soundFile": "eastern_gray_squirrel",
+            "timeLength": 18.89,
+            "uniqueID": 494
+        }, {
+            "Description": "Rock squirrel",
+            "soundFile": "rock_squirrel",
+            "timeLength": 10.61,
+            "uniqueID": 495
+        }, {
+            "Description": "Flying squirrel chirp",
+            "soundFile": "flying_squirrel_chirp",
+            "timeLength": 9.49,
+            "uniqueID": 496
+        }, {
+            "Description": "Antelope squirrel",
+            "soundFile": "antelope_squirrel",
+            "timeLength": 9.85,
+            "uniqueID": 497
+        }, {
+            "Description": "Chickaree squirrel",
+            "soundFile": "chickaree_squirrel",
+            "timeLength": 7.37,
+            "uniqueID": 498
+        }, {
+            "Description": "Fox squirrel barks",
+            "soundFile": "fox_squirrel_barks",
+            "timeLength": 10.71,
+            "uniqueID": 499
+        }, {
+            "Description": "Fox squirrel chatter",
+            "soundFile": "fox_squirrel_chattering",
+            "timeLength": 60.5,
+            "uniqueID": 500
+        }, {
+            "Description": "Fox squirrel chirping",
+            "soundFile": "fox_squirrel_chirping",
+            "timeLength": 11.76,
+            "uniqueID": 501
+        }, {
+            "Description": "Baby fox squirrel crying",
+            "soundFile": "fox_squirrel_baby_crying",
+            "timeLength": 5.47,
+            "uniqueID": 502
+        }]
+    }, {
+        "Description": "clucks, cutting, gobbles…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=turkeys",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=turkeys",
+        "animalName": "turkeys",
+        "image": "turkey",
+        "idRes": 2130837584,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Flydown cackle #1",
+            "soundFile": "flydown_cackle",
+            "timeLength": 2.52,
+            "uniqueID": 503
+        }, {
+            "Description": "Flydown cackle #2",
+            "soundFile": "flydown_cackle_2",
+            "timeLength": 5.52,
+            "uniqueID": 504
+        }, {
+            "Description": "Kee Kee #1",
+            "soundFile": "kee_kee",
+            "timeLength": 3.22,
+            "uniqueID": 505
+        }, {
+            "Description": "Kee Kee #2",
+            "soundFile": "kee_kee_2",
+            "timeLength": 6.2,
+            "uniqueID": 506
+        }, {
+            "Description": "Kee Kee #3",
+            "soundFile": "kee_kee_3",
+            "timeLength": 6.38,
+            "uniqueID": 507
+        }, {
+            "Description": "Kee Kee Run #1",
+            "soundFile": "kee_kee_run",
+            "timeLength": 2.41,
+            "uniqueID": 508
+        }, {
+            "Description": "Kee Kee Run #2",
+            "soundFile": "kee_kee_2",
+            "timeLength": 6.2,
+            "uniqueID": 509
+        }, {
+            "Description": "Turkey distress",
+            "soundFile": "turkey_distress",
+            "timeLength": 6.85,
+            "uniqueID": 510
+        }, {
+            "Description": "Turkey gobble #1",
+            "soundFile": "gobble",
+            "timeLength": 1.2,
+            "uniqueID": 511
+        }, {
+            "Description": "Turkey gobble #2",
+            "soundFile": "gobble_2",
+            "timeLength": 1.5,
+            "uniqueID": 512
+        }, {
+            "Description": "Turkey gobble #3",
+            "soundFile": "gobble_3",
+            "timeLength": 2.05,
+            "uniqueID": 513
+        }, {
+            "Description": "Turkey gobble #4",
+            "soundFile": "gobble_4",
+            "timeLength": 15.49,
+            "uniqueID": 514
+        }, {
+            "Description": "Turkey gobble #5",
+            "soundFile": "gobble_5",
+            "timeLength": 4.85,
+            "uniqueID": 515
+        }, {
+            "Description": "Turkey cutting #1",
+            "soundFile": "turkey_cutting",
+            "timeLength": 5.44,
+            "uniqueID": 516
+        }, {
+            "Description": "Turkey cutting #2",
+            "soundFile": "turkey_cutting_2",
+            "timeLength": 9.8,
+            "uniqueID": 517
+        }, {
+            "Description": "Turkey cutting #3",
+            "soundFile": "turkey_cutting_3",
+            "timeLength": 12.57,
+            "uniqueID": 518
+        }, {
+            "Description": "Turkey cackle #1",
+            "soundFile": "turkey_cackle",
+            "timeLength": 3.74,
+            "uniqueID": 519
+        }, {
+            "Description": "Turkey cackle #2",
+            "soundFile": "turkey_cackle_2",
+            "timeLength": 8.99,
+            "uniqueID": 520
+        }, {
+            "Description": "Turkey clucking #1",
+            "soundFile": "turkey_cluck",
+            "timeLength": 4.68,
+            "uniqueID": 521
+        }, {
+            "Description": "Turkey clucking #2",
+            "soundFile": "turkey_cluck_2",
+            "timeLength": 3.64,
+            "uniqueID": 522
+        }, {
+            "Description": "Turkey assembly call",
+            "soundFile": "turkey_assembly_call",
+            "timeLength": 10.58,
+            "uniqueID": 523
+        }, {
+            "Description": "Turkey hen clucking",
+            "soundFile": "turkey_hen_cluck",
+            "timeLength": 7.49,
+            "uniqueID": 524
+        }, {
+            "Description": "Turkey hen purring",
+            "soundFile": "turkey_hen_purring",
+            "timeLength": 8.64,
+            "uniqueID": 525
+        }, {
+            "Description": "Turkey hen yelp #1",
+            "soundFile": "turkey_hen_yelp",
+            "timeLength": 8.18,
+            "uniqueID": 526
+        }, {
+            "Description": "Turkey hen yelp #2",
+            "soundFile": "turkey_hen_yelp_2",
+            "timeLength": 43.49,
+            "uniqueID": 527
+        }, {
+            "Description": "Turkey hen",
+            "soundFile": "turkey_hen",
+            "timeLength": 35.61,
+            "uniqueID": 528
+        }, {
+            "Description": "Lost turkey hen yelp",
+            "soundFile": "turkey_lost_hen_yelp",
+            "timeLength": 27.38,
+            "uniqueID": 529
+        }, {
+            "Description": "Turkey purring #1",
+            "soundFile": "turkey_purr",
+            "timeLength": 4.55,
+            "uniqueID": 530
+        }, {
+            "Description": "Turkey purring #2",
+            "soundFile": "turkey_purr_2",
+            "timeLength": 6.23,
+            "uniqueID": 531
+        }, {
+            "Description": "Turkey toms",
+            "soundFile": "turkey_toms",
+            "timeLength": 30.65,
+            "uniqueID": 532
+        }, {
+            "Description": "Turkey whine",
+            "soundFile": "turkey_whine",
+            "timeLength": 5.15,
+            "uniqueID": 533
+        }, {
+            "Description": "Turkey tree yelp",
+            "soundFile": "turkey_tree_yelp",
+            "timeLength": 6.87,
+            "uniqueID": 534
+        }, {
+            "Description": "Lost turkey yelp",
+            "soundFile": "turkey_lost_yelp",
+            "timeLength": 4.68,
+            "uniqueID": 535
+        }, {
+            "Description": "Turkey yelp #1",
+            "soundFile": "turkey_yelp",
+            "timeLength": 3.35,
+            "uniqueID": 536
+        }, {
+            "Description": "Turkey yelp #2",
+            "soundFile": "turkey_yelp_2",
+            "timeLength": 8.07,
+            "uniqueID": 537
+        }, {
+            "Description": "Turkey yelp #3",
+            "soundFile": "turkey_yelp_3",
+            "timeLength": 8.94,
+            "uniqueID": 538
+        }, {
+            "Description": "Turkey alarm call",
+            "soundFile": "turkey_alarm",
+            "timeLength": 7.29,
+            "uniqueID": 539
+        }]
+    }, {
+        "Description": "distress, grunts, squeals…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wildboar",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wildboar",
+        "animalName": "wild boar \u0026 pigs",
+        "image": "wildboar",
+        "idRes": 2130837588,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Group of pigs",
+            "soundFile": "group_of_pigs",
+            "timeLength": 26.85,
+            "uniqueID": 540
+        }, {
+            "Description": "Javelina distress",
+            "soundFile": "javelina_distress",
+            "timeLength": 13.51,
+            "uniqueID": 541
+        }, {
+            "Description": "Javelinas feeding #1",
+            "soundFile": "javelinas_feeding_1",
+            "timeLength": 17.95,
+            "uniqueID": 542
+        }, {
+            "Description": "Javelinas feeding #2",
+            "soundFile": "javelinas_feeding_2",
+            "timeLength": 30.46,
+            "uniqueID": 543
+        }, {
+            "Description": "Javelinas grunting",
+            "soundFile": "javelinas_grunting",
+            "timeLength": 43.19,
+            "uniqueID": 544
+        }, {
+            "Description": "Pig squeal #2",
+            "soundFile": "pig_squeal_2",
+            "timeLength": 8.73,
+            "uniqueID": 545
+        }, {
+            "Description": "Piglet distress #2",
+            "soundFile": "piglet_distress_2",
+            "timeLength": 8.89,
+            "uniqueID": 546
+        }, {
+            "Description": "Boar distress",
+            "soundFile": "wildboar_distress",
+            "timeLength": 171.55,
+            "uniqueID": 547
+        }, {
+            "Description": "Boar groan",
+            "soundFile": "wildboar_groan",
+            "timeLength": 8.21,
+            "uniqueID": 548
+        }, {
+            "Description": "Boar growl #1",
+            "soundFile": "wildboar_growl",
+            "timeLength": 10.33,
+            "uniqueID": 549
+        }, {
+            "Description": "Boar grunt #1",
+            "soundFile": "wildboar_grunt",
+            "timeLength": 0.43,
+            "uniqueID": 550
+        }, {
+            "Description": "Boar grunt #2",
+            "soundFile": "wildboar_grunt_2",
+            "timeLength": 2.39,
+            "uniqueID": 551
+        }, {
+            "Description": "Boar grunt #3",
+            "soundFile": "wildboar_grunt_3",
+            "timeLength": 12.31,
+            "uniqueID": 552
+        }, {
+            "Description": "Boar grunt \u0026 squeal",
+            "soundFile": "wildboar_grunt_squeal_2",
+            "timeLength": 16.57,
+            "uniqueID": 553
+        }, {
+            "Description": "Boar squeal",
+            "soundFile": "wildboar_squeal",
+            "timeLength": 0.77,
+            "uniqueID": 554
+        }, {
+            "Description": "Wild Boar sound #1",
+            "soundFile": "wildboar_2",
+            "timeLength": 1.29,
+            "uniqueID": 555
+        }, {
+            "Description": "Wild Boar sound #2",
+            "soundFile": "wildboar_3",
+            "timeLength": 1.13,
+            "uniqueID": 556
+        }, {
+            "Description": "Pig squeal #1",
+            "soundFile": "pig_squeal",
+            "timeLength": 3.17,
+            "uniqueID": 557
+        }, {
+            "Description": "Piglet distress #1",
+            "soundFile": "piglet_distress",
+            "timeLength": 50.08,
+            "uniqueID": 558
+        }, {
+            "Description": "Piglets",
+            "soundFile": "piglets",
+            "timeLength": 4.68,
+            "uniqueID": 559
+        }, {
+            "Description": "Social Grunts",
+            "soundFile": "boar_social_grunts",
+            "timeLength": 81.43,
+            "uniqueID": 582
+        }, {
+            "Description": "Feeding Piglets",
+            "soundFile": "pigs_feeding_piglets",
+            "timeLength": 58.84,
+            "uniqueID": 583
+
+        }]
+    }, {
+        "Description": "cries, groans, moans…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wildebeest",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wildebeest",
+        "animalName": "wildebeest",
+        "image": "wildebeest",
+        "idRes": 2130837589,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Wildebeest death cry",
+            "soundFile": "wildebeest_death_cry",
+            "timeLength": 7.77,
+            "uniqueID": 560
+        }, {
+            "Description": "Wildebeest \u0026 Zebras",
+            "soundFile": "wildebeest_zebras",
+            "timeLength": 18.61,
+            "uniqueID": 561
+        }, {
+            "Description": "Wildebeest in water",
+            "soundFile": "wildebeest_splashing_water",
+            "timeLength": 19.73,
+            "uniqueID": 562
+        }, {
+            "Description": "Wildebeest groans #1",
+            "soundFile": "wildebeest_herd_groans",
+            "timeLength": 22.87,
+            "uniqueID": 563
+        }, {
+            "Description": "Wildebeest groans #2",
+            "soundFile": "wildebeest_herd_groans_2",
+            "timeLength": 30.83,
+            "uniqueID": 564
+        }, {
+            "Description": "Wildebeest groans #3",
+            "soundFile": "wildebeest_herd_groans_3",
+            "timeLength": 35.22,
+            "uniqueID": 565
+        }]
+    }, {
+        "Description": "grey, arctic, red…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wolf",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=wolf",
+        "animalName": "wolf",
+        "image": "wolf",
+        "idRes": 2130837515,
+        "bLock": true,
+        "mSounds": [{
+            "Description": "Arctic wolf howl",
+            "soundFile": "arctic_wolf_howl",
+            "timeLength": 6.01,
+            "uniqueID": 747
+        }, {
+            "Description": "Distant long howl",
+            "soundFile": "distant_long_howl",
+            "timeLength": 6.27,
+            "uniqueID": 748
+        }, {
+            "Description": "High howl barks",
+            "soundFile": "high_howl_barks",
+            "timeLength": 2.93,
+            "uniqueID": 749
+        }, {
+            "Description": "High pitched howl",
+            "soundFile": "high_pitched_howl",
+            "timeLength": 3.21,
+            "uniqueID": 750
+        }, {
+            "Description": "Long howl bark",
+            "soundFile": "long_howl_bark",
+            "timeLength": 3.32,
+            "uniqueID": 751
+        }, {
+            "Description": "Threatening growl",
+            "soundFile": "threatening_growl",
+            "timeLength": 3.19,
+            "uniqueID": 752
+        }, {
+            "Description": "Wheezing threat",
+            "soundFile": "wheezing_threat",
+            "timeLength": 3.66,
+            "uniqueID": 753
+        }]
+    }, {
+        "Description": "common calls and yelps…",
+        "redirect": "http://ihunt.stsonline.uk.com/banner/redirection?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=zebra",
+        "banner": "http://ihunt.stsonline.uk.com/banner/image?app=com.desiderata.ihuntNA&device=android&activity=soundlist&animal=zebra",
+        "animalName": "zebra",
+        "image": "zebra",
+        "idRes": 2130837590,
+        "bLock": false,
+        "mSounds": [{
+            "Description": "Zebra #1",
+            "soundFile": "zebra_1",
+            "timeLength": 1.99,
+            "uniqueID": 566
+        }, {
+            "Description": "Zebra #2",
+            "soundFile": "zebra_2",
+            "timeLength": 2.54,
+            "uniqueID": 567
+        }, {
+            "Description": "Zebra #3",
+            "soundFile": "zebra_3",
+            "timeLength": 4.79,
+            "uniqueID": 568
+        }, {
+            "Description": "Zebra #4",
+            "soundFile": "zebra_4",
+            "timeLength": 4.08,
+            "uniqueID": 569
+        }, {
+            "Description": "Zebra #5",
+            "soundFile": "zebra_5",
+            "timeLength": 5.83,
+            "uniqueID": 570
+        }, {
+            "Description": "Zebra #6",
+            "soundFile": "zebra_6",
+            "timeLength": 6.9,
+            "uniqueID": 571
+        }, {
+            "Description": "Zebra #7",
+            "soundFile": "zebra_7",
+            "timeLength": 7.4,
+            "uniqueID": 572
+        }, {
+            "Description": "Upset zebra",
+            "soundFile": "upset_zebra",
+            "timeLength": 3.25,
+            "uniqueID": 573
+        }]
+    }
+]
